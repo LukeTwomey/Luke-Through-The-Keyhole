@@ -76,6 +76,11 @@
 html{
     box-sizing: border-box;
     font-size: 1em;
+    background: url(../images/bg.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
 }
 
 *, *:before, *:after {
@@ -83,7 +88,6 @@ html{
 }
 
 body{
-    background: #fff;
     color: #000;
     font-family: @mainFont;
     overflow-x: hidden;
@@ -300,7 +304,6 @@ nav > ul > li > ul > li > ul >li.parent{
 
 .page-content{
     .Clearfix;
-    background: #dedede;
     font-size: 1rem;
     margin-top: @headerHeight;
     padding: 2em;
