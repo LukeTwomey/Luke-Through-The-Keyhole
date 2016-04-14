@@ -2,8 +2,9 @@
 ****************         VARIABLES          *******************
 **************************************************************/
 
-@headerHeight: 100px;
+@headerHeight: 50px;
 @mainFont: 'Source Sans Pro', sans-serif;
+@mainFontColor: #3b4140;
 
 /**************************************************************
 ******************         MIXINS          ********************
@@ -88,7 +89,7 @@ html{
 }
 
 body{
-    color: #000;
+    color: @mainFontColor;
     font-family: @mainFont;
     overflow-x: hidden;
     text-rendering: optimizeLegibility;
@@ -173,7 +174,7 @@ strong, bold{
 **************************************************************/
 
 header{
-	background: #bad0e2;
+	background: rgba(255, 255, 255, 0.7);
     font-size: 1rem;
     height: @headerHeight;
     position: fixed;
@@ -224,7 +225,7 @@ nav{
 }
 
 nav > ul li a{
-	color: black;
+	color: @mainFontColor;
     display: block;
     height: 100%;
     width: 100%;
