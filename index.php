@@ -11,7 +11,13 @@
 
                 <!-- Add page content here -->
                 <div class="page-content index">
-
+                    <article>
+                        <img class="featured-image" src="/images/welcome.jpg"/>
+                        <div class="preview-text">
+                            <p>My name's Luke Twomey, and if you're reading this I've probably harass...</p>
+                            <a href="#" class="button">Read more...</a>
+                        </div>
+                    </article>
                 </div>
 
                 <?php include("footer.php"); ?>
