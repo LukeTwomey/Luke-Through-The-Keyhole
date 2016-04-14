@@ -7,6 +7,17 @@
 @mainFontColor: #3b4140;
 
 /**************************************************************
+******************         FONTS          ********************
+**************************************************************/
+
+@font-face {
+    font-family: Bebas;
+    //src: url("../fonts/BebasNeue Regular.otf") format("opentype");
+    src: url("../fonts/bebasneue_regular-webfont.woff2") format("woff2");
+    src: url("../fonts/bebasneue_regular-webfont.woff") format("woff");
+}
+
+/**************************************************************
 ******************         MIXINS          ********************
 **************************************************************/
 
@@ -149,9 +160,9 @@ button,
     border-color: #000;
     background: none;
     cursor: pointer;
-    font-family: @mainFont;
+    font-family: Bebas;
     font-size: 1.7em;
-    font-weight: 600;
+    font-weight: 100;
     padding: 0.3em 1.5em 0.2em 1.5em;
     .SmoothHover(1s);
     text-transform: lowercase;
