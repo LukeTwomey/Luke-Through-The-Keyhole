@@ -14,6 +14,7 @@
                     <article>
                         <img class="featured-image" src="/images/welcome.jpg"/>
                         <div class="preview-text">
+                            <h2 class="post-title">Hello and Welcome!</h2>
                             <p>My name's Luke Twomey, and if you're reading this I've probably harass...</p>
                             <a href="#" class="button">Read more...</a>
                         </div>
