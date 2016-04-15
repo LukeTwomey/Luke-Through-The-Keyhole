@@ -90,11 +90,7 @@
 html{
     box-sizing: border-box;
     font-size: 1em;
-    background: url(../images/bg2.jpg) no-repeat center center fixed;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
+    background: #bac2c1;
 }
 
 *, *:before, *:after {
@@ -159,7 +155,7 @@ button,
     .SmoothHover(0.5s);
     border-radius: 5px;
     border: none;
-    background: #5080ca;
+    background: #67635D;
     color: #f4f4f4;
     cursor: pointer;
     display: block;
@@ -174,7 +170,7 @@ button,
 
 button:hover,
 .button:hover{
-    background: #7ba5e5;
+    background: #8e8981;
 }
 
 em{
@@ -190,7 +186,7 @@ strong, bold{
 **************************************************************/
 
 header{
-	background: rgba(255, 255, 255, 0.7);
+	background: #929c9b;
     font-size: 1rem;
     height: @headerHeight;
     position: fixed;
@@ -226,7 +222,7 @@ header{
 ********************************/
 
 nav{
-    background: #fff;
+    background: rgba(255,255,255,0.7);
     border-bottom: 1px solid #D3D0E1;
     display: none;
     overflow-y: auto;
@@ -243,9 +239,12 @@ nav{
 nav > ul li a{
 	color: @mainFontColor;
     display: block;
+    font-family: Bebas;
+    font-size: 1.4em;
     height: 100%;
-    width: 100%;
     padding: 1em;
+    text-align: center;
+    width: 100%;
 }
 
 /* Give the "parent" list items a dropdown arrow to indicate they can be expanded to show a sub-menu */
@@ -340,9 +339,8 @@ nav > ul > li > ul > li > ul >li.parent{
 }
 
 .index article{
-    background: #d5d5d5;
+    background: #fff;
     border-radius: 5px;
-    box-shadow: 5px 5px 5px @mainFontColor;
     margin-bottom: 1.5em;
     width: 100%;
 }
