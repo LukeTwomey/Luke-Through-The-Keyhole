@@ -47,4 +47,20 @@ $(document).ready(function () {
        e.stopPropagation();
     })
 
+    /* Show and hide back to top button depending on position on page */
+    $(window).scroll(function() {
+        if($(window).scrollTop() == 0) {
+            $(".back-to-top").fadeOut();
+        }else{
+            $(".back-to-top").fadeIn();
+        }
+    });
+
+    /* Scroll smoothly to the top of the page if the button is clicked */
+    $(".back-to-top").click(function(){
+        $("html, body").animate({
+            scrollTop: 0
+        },500);
+    });
+
 });
