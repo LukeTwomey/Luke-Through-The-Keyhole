@@ -11,6 +11,7 @@
 
                 <!-- Add page content here -->
                 <div class="page-content about">
+                    <img src="/images/welcome.jpg"/>
                     <p>Hi, I'm Luke.</p>
                     <p>My surname is Twomey (Irish, and notoriously hard to pronounce for the uninitiated). It's too-me by the way.</p>
                     <p>I've been working as a technical consultant in a software company for the past five years. This fully qualifies me to dispense the following invaluable advice regarding the problem you're no doubt having with your computer; turn it off and on again.</p>
