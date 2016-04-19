@@ -18,7 +18,16 @@
                     <p>Five years in a job is a relatively long time. I felt like I needed a change of direction. An opportunity arose to travel to Sydney to visit some friends. At its inception I intended to spend one month there. This evolved into spending a year travelling around Australia. This further evolved into spending a year backpacking Southeast Asia, Australia, New Zealand and New York. It hasn't yet got to the stage where I find myself trekking to the North Pole, but I'm sure it's only a matter of time.</p>
                     <p>I set up this blog for my own personal enjoyment, and sharing my experiences with friends and family.</p>
                     <p>Join me as I journey across the globe, experiencing soaring highs and crushing lows (hopefully less of the latter).</p>
-                    <p>Check out my Flickr photostream which will be regularly updated with the amazing moments I capture along the way.</p>
+                    <p><a href="https://www.flickr.com/photos/luketwomey/">Check out my Flickr photostream</a> which will be regularly updated with the amazing moments I capture along the way.</p>
+
+                    <div class="flickr-gallery">
+                        <img src="/images/boat-sunset.jpg"/>
+                        <img src="/images/surfing.jpg"/>
+                        <img src="/images/siem-reap.jpg"/>
+                        <img src="/images/lighthouse.jpg"/>
+                        <img src="/images/new-z.jpg"/>
+                        <img src="/images/scuba.jpg"/>
+                    </div>
                 </div>
 
                 <img class="back-to-top hidden" src="/images/icons/up-arrow.jpg"/>
