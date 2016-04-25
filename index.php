@@ -95,11 +95,11 @@
                     </article>
 
                     <article>
-                        <a href="#"><img class="featured-image" src="/images/itinerary.jpg"/></a>
+                        <a href="/blog/the-itinerary.php"><img class="featured-image" src="/images/itinerary.jpg"/></a>
                         <div class="preview-text">
-                            <a href="#"><h2 class="post-title">The Itinerary</h2></a>
+                            <a href="/blog/the-itinerary.php"><h2 class="post-title">The Itinerary</h2></a>
                             <p>Other than the order of the places I'm visiting, I'm trying to keep th...</p>
-                            <a href="#" class="button">Read more...</a>
+                            <a href="/blog/the-itinerary.php" class="button">Read more...</a>
                         </div>
                     </article>
 
