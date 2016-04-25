@@ -2,7 +2,7 @@
     <div class="content">
         <img class="menu" src="/images/icons/menu.png"/>
         <div class="logo-nav-bar">
-            <a href="index.php">
+            <a href="/">
                 <img class="logo" src="/images/logo.png"/>
             </a>
             <nav>
