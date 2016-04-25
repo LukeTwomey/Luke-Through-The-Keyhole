@@ -16,7 +16,7 @@
                         <div class="preview-text">
                             <a href="#"><h2 class="post-title">Ho Chi Minh City</h2></a>
                             <p>After the journey I'd been on to get here, Ho Chi Minh City certainly...</p>
-                            <a href="#" class="button">Read more...</a>
+                            <a href="/blog/hello-and-welcome.php" class="button">Read more...</a>
                         </div>
                     </article>
                     <article>
@@ -104,11 +104,11 @@
                     </article>
 
                     <article>
-                        <a href="#"><img class="featured-image" src="/images/welcome.jpg"/></a>
+                        <a href="/blog/hello-and-welcome.php"><img class="featured-image" src="/images/welcome.jpg"/></a>
                         <div class="preview-text">
-                            <a href="#"><h2 class="post-title">Hello and Welcome!</h2></a>
+                            <a href="/blog/hello-and-welcome.php"><h2 class="post-title">Hello and Welcome!</h2></a>
                             <p>My name's Luke Twomey, and if you're reading this I've probably harass...</p>
-                            <a href="#" class="button">Read more...</a>
+                            <a href="/blog/hello-and-welcome.php" class="button">Read more...</a>
                         </div>
                     </article>
                 </div>
