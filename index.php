@@ -86,11 +86,11 @@
                     </article>
 
                     <article>
-                        <a href="#"><img class="featured-image" src="/images/hong-kong.jpg"/></a>
+                        <a href="/blog/arrival-in-hong-kong.php"><img class="featured-image" src="/images/hong-kong.jpg"/></a>
                         <div class="preview-text">
-                            <a href="#"><h2 class="post-title">Arrival in Hong Kong</h2></a>
+                            <a href="/blog/arrival-in-hong-kong.php"><h2 class="post-title">Arrival in Hong Kong</h2></a>
                             <p>Well, I made it! The flight wasn't the most fun in the world, I don't...</p>
-                            <a href="#" class="button">Read more...</a>
+                            <a href="/blog/arrival-in-hong-kong.php" class="button">Read more...</a>
                         </div>
                     </article>
 
