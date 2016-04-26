@@ -60,11 +60,11 @@
                         </div>
                     </article>
                     <article>
-                        <a href="#"><img class="featured-image" src="/images/guilin.jpg"/></a>
+                        <a href="/blog/arrival-in-guilin.php"><img class="featured-image" src="/images/guilin.jpg"/></a>
                         <div class="preview-text">
-                            <a href="#"><h2 class="post-title">Arrival in Guilin</h2></a>
+                            <a href="/blog/arrival-in-guilin.php"><h2 class="post-title">Arrival in Guilin</h2></a>
                             <p>The drivers here are INSANE. I'd only been in Guilin half an hour and...</p>
-                            <a href="#" class="button">Read more...</a>
+                            <a href="/blog/arrival-in-guilin.php" class="button">Read more...</a>
                         </div>
                     </article>
                     <article>
