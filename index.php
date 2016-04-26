@@ -68,11 +68,11 @@
                         </div>
                     </article>
                     <article>
-                        <a href="#"><img class="featured-image" src="/images/macau.jpg"/></a>
+                        <a href="/blog/macau-and-farewell-to-hong-kong.php"><img class="featured-image" src="/images/macau.jpg"/></a>
                         <div class="preview-text">
-                            <a href="#"><h2 class="post-title">Macau and Farewell to Hong Kong</h2></a>
+                            <a href="/blog/macau-and-farewell-to-hong-kong.php"><h2 class="post-title">Macau and Farewell to Hong Kong</h2></a>
                             <p>I'd read that a trip to Hong Kong wasn't complete without a visit to M...</p>
-                            <a href="#" class="button">Read more...</a>
+                            <a href="/blog/macau-and-farewell-to-hong-kong.php" class="button">Read more...</a>
                         </div>
                     </article>
 
