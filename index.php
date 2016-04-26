@@ -77,11 +77,11 @@
                     </article>
 
                     <article>
-                        <a href="#"><img class="featured-image" src="/images/hong-kong-explore.jpg"/></a>
+                        <a href="/blog/exploring-hong-kong.php"><img class="featured-image" src="/images/hong-kong-explore.jpg"/></a>
                         <div class="preview-text">
-                            <a href="#"><h2 class="post-title">Exploring Hong Kong</h2></a>
+                            <a href="/blog/exploring-hong-kong.php"><h2 class="post-title">Exploring Hong Kong</h2></a>
                             <p>CouchSurfing. Hands up if you've heard of it! No prizes if I...</p>
-                            <a href="#" class="button">Read more...</a>
+                            <a href="/blog/exploring-hong-kong.php" class="button">Read more...</a>
                         </div>
                     </article>
 
