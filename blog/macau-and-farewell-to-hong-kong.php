@@ -13,6 +13,7 @@
                 <div class="page-content macau-and-farewell-to-hong-kong blog-post">
 <!--                    <img class="featured-image" src="/images/macau.jpg"/>-->
                     <h1>Macau and Farewell to Hong Kong</h1>
+                    <p class="post-date">5th May 2012 18:50</p>
                     <p>I'd read that a trip to Hong Kong wasn't complete without a visit to Macau. A big reason for this is the vast number of casinos in the place, but frankly that doesn't interest me in the slightest. I've never really understood gambling, the house will ALWAYS win - what's the point? It's just a guaranteed way of losing money... Anyway, the casinos aren't the only draw. There's some nice Portugese architectural sights to enjoy if you're into that kind of thing.</p>
 
                     <p>So up at 6 (I thought early starts died with leaving my job!) to hop on a ferry to Macau and catch up on an hour of much needed sleep.</p>
