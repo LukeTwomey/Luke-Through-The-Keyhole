@@ -44,11 +44,11 @@
                         </div>
                     </article>
                     <article>
-                        <a href="#"><img class="featured-image" src="/images/hanoi.jpg"/></a>
+                        <a href="/blog/arrival-in-hanoi.php"><img class="featured-image" src="/images/hanoi.jpg"/></a>
                         <div class="preview-text">
-                            <a href="#"><h2 class="post-title">Arrival in Hanoi</h2></a>
+                            <a href="/blog/arrival-in-hanoi.php"><h2 class="post-title">Arrival in Hanoi</h2></a>
                             <p>They played surreal, remixed, poor quality Vietnamese music videos on...</p>
-                            <a href="#" class="button">Read more...</a>
+                            <a href="/blog/arrival-in-hanoi.php" class="button">Read more...</a>
                         </div>
                     </article>
                     <article>
