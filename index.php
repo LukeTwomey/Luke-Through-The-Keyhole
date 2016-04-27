@@ -52,11 +52,11 @@
                         </div>
                     </article>
                     <article>
-                        <a href="#"><img class="featured-image" src="/images/nanning.jpg"/></a>
+                        <a href="/blog/arrival-in-nanning.php"><img class="featured-image" src="/images/nanning.jpg"/></a>
                         <div class="preview-text">
-                            <a href="#"><h2 class="post-title">Arrival in Nanning</h2></a>
+                            <a href="/blog/arrival-in-nanning.php"><h2 class="post-title">Arrival in Nanning</h2></a>
                             <p>The first train journey on my trip so far was mercifully uneventful. I...</p>
-                            <a href="#" class="button">Read more...</a>
+                            <a href="/blog/arrival-in-nanning.php" class="button">Read more...</a>
                         </div>
                     </article>
                     <article>
