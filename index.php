@@ -36,11 +36,11 @@
                         </div>
                     </article>
                     <article>
-                        <a href="#"><img class="featured-image" src="/images/vietnam-by-bike.jpg"/></a>
+                        <a href="/blog/vietnam-by-motorbike.php"><img class="featured-image" src="/images/vietnam-by-bike.jpg"/></a>
                         <div class="preview-text">
-                            <a href="#"><h2 class="post-title">Vietnam by Motorbike</h2></a>
+                            <a href="/blog/vietnam-by-motorbike.php"><h2 class="post-title">Vietnam by Motorbike</h2></a>
                             <p>So I bought a motorbike. A "Honda Win" that isn't actually a Honda, bu...</p>
-                            <a href="#" class="button">Read more...</a>
+                            <a href="/blog/vietnam-by-motorbike.php" class="button">Read more...</a>
                         </div>
                     </article>
                     <article>
