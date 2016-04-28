@@ -20,11 +20,11 @@
                         </div>
                     </article>
                     <article>
-                        <a href="#"><img class="featured-image" src="/images/hanoi-saigon-2.jpg"/></a>
+                        <a href="/blog/hanoi-to-saigon-part-two.php"><img class="featured-image" src="/images/hanoi-saigon-2.jpg"/></a>
                         <div class="preview-text">
-                            <a href="#"><h2 class="post-title">Hanoi to Saigon - Part Two</h2></a>
+                            <a href="/blog/hanoi-to-saigon-part-two.php"><h2 class="post-title">Hanoi to Saigon - Part Two</h2></a>
                             <p>Day five should have seen us arrive in Khe Sanh after a two hundred ki...</p>
-                            <a href="#" class="button">Read more...</a>
+                            <a href="/blog/hanoi-to-saigon-part-two.php" class="button">Read more...</a>
                         </div>
                     </article>
                     <article>
