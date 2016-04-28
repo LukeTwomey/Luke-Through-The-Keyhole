@@ -28,11 +28,11 @@
                         </div>
                     </article>
                     <article>
-                        <a href="#"><img class="featured-image" src="/images/hanoi-saigon.jpg"/></a>
+                        <a href="/blog/hanoi-to-saigon-part-one.php"><img class="featured-image" src="/images/hanoi-saigon.jpg"/></a>
                         <div class="preview-text">
-                            <a href="#"><h2 class="post-title">Hanoi to Saigon - Part One</h2></a>
+                            <a href="/blog/hanoi-to-saigon-part-one.php"><h2 class="post-title">Hanoi to Saigon - Part One</h2></a>
                             <p>This was it, the big one. The Northwest Loop was just the practice run...</p>
-                            <a href="#" class="button">Read more...</a>
+                            <a href="/blog/hanoi-to-saigon-part-one.php" class="button">Read more...</a>
                         </div>
                     </article>
                     <article>
