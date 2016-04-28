@@ -11,7 +11,7 @@
 
                 <!-- Add page content here -->
                 <div class="page-content vietnam-by-motorbike blog-post">
-                    <img class="featured-image" src="/images/vietnam-by-bike.jpg"/>
+<!--                    <img class="featured-image" src="/images/vietnam-by-bike.jpg"/>-->
                     <h1>Vietnam by Motorbike</h1>
                     <p class="post-date">26th May 2012 15:51</p>
                     <p>So I bought a motorbike. A "Honda Win" that isn't actually a Honda, but a cheap copy. But it's called a "Win" so you already know it's amazing.</p>
