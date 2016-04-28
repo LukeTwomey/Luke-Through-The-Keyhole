@@ -30,7 +30,7 @@
 
                     <p>To get an idea of just what the traffic here is like, the following YouTube video was taken by me on a random trip trough the city, back to my hostel. The editing is very shoddy, but I had to get it under fifteen minutes, and I wasn't exactly going for an Oscar. If you notice, at 09:50 minutes there's a crash - which I surprisingly haven't seen too many of.</p>
 
-                    <iframe width="420" height="315" src="http://www.youtube.com/embed/2lAIchD1jZk" frameborder="0" allowfullscreen></iframe>
+                    <iframe width="640" height="480" src="https://www.youtube.com/embed/bC-FsHin2QA?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 
                     <p>So having become an expert motorcyclist in just a couple of days, I was ready for my first big adventure - The Northwest Loop.</p>
 
