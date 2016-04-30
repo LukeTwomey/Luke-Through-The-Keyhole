@@ -1,17 +1,17 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <?php include($_SERVER["DOCUMENT_ROOT"] . "/head.php"); ?>
+        <?php include("head.php"); ?>
     </head>
 
     <body>
         <div id="fouc">
             <div class="site-wrap">
-                <?php include($_SERVER["DOCUMENT_ROOT"] . "/header.php"); ?>
+                <?php include("header.php"); ?>
 
                 <!-- Add page content here -->
                 <div class="page-content hello-and-welcome blog-post">
-                    <img class="featured-image" src="/images/welcome.jpg"/>
+                    <img class="featured-image" src="images/welcome.jpg"/>
                     <h1>Hello and Welcome!</h1>
                     <p class="post-date">27th March 2012 23:18</p>
                     <p>My name's Luke Twomey, and if you're reading this I've probably harassed (or bribed) you into visiting the site. Let me know if you've not yet received your life-size replacement Luke figurine.</p>
@@ -23,10 +23,10 @@
                 </div>
 
                 <img class="back-to-top hidden" src="images/icons/up-arrow.jpg"/>
-                <?php include($_SERVER["DOCUMENT_ROOT"] . "/footer.php"); ?>
+                <?php include("footer.php"); ?>
             </div>
         </div>
 
-        <?php include($_SERVER["DOCUMENT_ROOT"] . "/javascript-files.php"); ?>
+        <?php include("javascript-files.php"); ?>
     </body>
 </html>

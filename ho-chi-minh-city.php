@@ -1,17 +1,17 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <?php include($_SERVER["DOCUMENT_ROOT"] . "/head.php"); ?>
+        <?php include("head.php"); ?>
     </head>
 
     <body>
         <div id="fouc">
             <div class="site-wrap">
-                <?php include($_SERVER["DOCUMENT_ROOT"] . "/header.php"); ?>
+                <?php include("header.php"); ?>
 
                 <!-- Add page content here -->
                 <div class="page-content ho-chi-minh-city blog-post">
-                    <img class="featured-image" src="/images/ho-chi-minh.jpg"/>
+                    <img class="featured-image" src="images/ho-chi-minh.jpg"/>
                     <h1>Ho Chi Minh City</h1>
                     <p class="post-date">4th July 2012 13:14</p>
                     <p>After the journey I'd been on to get here, Ho Chi Minh City certainly had a lot to live up to. I'm delighted to say it didn't disappoint.</p>
@@ -158,10 +158,10 @@
                 </div>
 
                 <img class="back-to-top hidden" src="images/icons/up-arrow.jpg"/>
-                <?php include($_SERVER["DOCUMENT_ROOT"] . "/footer.php"); ?>
+                <?php include("footer.php"); ?>
             </div>
         </div>
 
-        <?php include($_SERVER["DOCUMENT_ROOT"] . "/javascript-files.php"); ?>
+        <?php include("javascript-files.php"); ?>
     </body>
 </html>

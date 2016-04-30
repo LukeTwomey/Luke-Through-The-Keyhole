@@ -1,17 +1,17 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <?php include($_SERVER["DOCUMENT_ROOT"] . "/head.php"); ?>
+        <?php include("head.php"); ?>
     </head>
 
     <body>
         <div id="fouc">
             <div class="site-wrap">
-                <?php include($_SERVER["DOCUMENT_ROOT"] . "/header.php"); ?>
+                <?php include("header.php"); ?>
 
                 <!-- Add page content here -->
                 <div class="page-content hanoi-to-saigon-part-two blog-post">
-                    <img class="featured-image" src="/images/hanoi-saigon-2.jpg"/>
+                    <img class="featured-image" src="images/hanoi-saigon-2.jpg"/>
                     <h1>Hanoi to Saigon - Part Two</h1>
                     <p class="post-date">28th June 2012 10:26</p>
                     <p>Day five should have seen us arrive in Khe Sanh after a two hundred kilometre journey through the most remote roads yet encountered. We hit a snag.</p>
@@ -126,10 +126,10 @@
                 </div>
 
                 <img class="back-to-top hidden" src="images/icons/up-arrow.jpg"/>
-                <?php include($_SERVER["DOCUMENT_ROOT"] . "/footer.php"); ?>
+                <?php include("footer.php"); ?>
             </div>
         </div>
 
-        <?php include($_SERVER["DOCUMENT_ROOT"] . "/javascript-files.php"); ?>
+        <?php include("javascript-files.php"); ?>
     </body>
 </html>

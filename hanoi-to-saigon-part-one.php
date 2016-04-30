@@ -1,17 +1,17 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <?php include($_SERVER["DOCUMENT_ROOT"] . "/head.php"); ?>
+        <?php include("head.php"); ?>
     </head>
 
     <body>
         <div id="fouc">
             <div class="site-wrap">
-                <?php include($_SERVER["DOCUMENT_ROOT"] . "/header.php"); ?>
+                <?php include("header.php"); ?>
 
                 <!-- Add page content here -->
                 <div class="page-content hanoi-to-saigon-part-one blog-post">
-                    <img class="featured-image" src="/images/hanoi-saigon.jpg"/>
+                    <img class="featured-image" src="images/hanoi-saigon.jpg"/>
                     <h1>Hanoi to Saigon - Part One</h1>
                     <p class="post-date">15th June 2012 14:58</p>
                     <p>This was it, the big one. The Northwest Loop was just the practice run, this was the real deal.</p>
@@ -46,10 +46,10 @@
                 </div>
 
                 <img class="back-to-top hidden" src="images/icons/up-arrow.jpg"/>
-                <?php include($_SERVER["DOCUMENT_ROOT"] . "/footer.php"); ?>
+                <?php include("footer.php"); ?>
             </div>
         </div>
 
-        <?php include($_SERVER["DOCUMENT_ROOT"] . "/javascript-files.php"); ?>
+        <?php include("javascript-files.php"); ?>
     </body>
 </html>

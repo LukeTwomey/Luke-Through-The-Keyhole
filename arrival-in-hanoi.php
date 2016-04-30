@@ -1,17 +1,17 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <?php include($_SERVER["DOCUMENT_ROOT"] . "/head.php"); ?>
+        <?php include("head.php"); ?>
     </head>
 
     <body>
         <div id="fouc">
             <div class="site-wrap">
-                <?php include($_SERVER["DOCUMENT_ROOT"] . "/header.php"); ?>
+                <?php include("header.php"); ?>
 
                 <!-- Add page content here -->
                 <div class="page-content arrival-in-hanoi blog-post">
-                    <img class="featured-image" src="/images/hanoi.jpg"/>
+                    <img class="featured-image" src="images/hanoi.jpg"/>
                     <h1>Arrival in Hanoi</h1>
                     <p class="post-date">14th May 2012 16:31</p>
                     <p>They played surreal,  remixed, poor quality Vietnamese music videos on the bus having crossed the border. It didn't take me long to feel like sticking screwdrivers through my eardrums rather than listen any longer. Looking back on it, I have no idea why I didn't put my headphones in and listen to some Aqua or Britney Spears. I can only assume I was somehow brainwashed by the shockingly bad singing and psychedelic videos.</p>
@@ -134,10 +134,10 @@
                 </div>
 
                 <img class="back-to-top hidden" src="images/icons/up-arrow.jpg"/>
-                <?php include($_SERVER["DOCUMENT_ROOT"] . "/footer.php"); ?>
+                <?php include("footer.php"); ?>
             </div>
         </div>
 
-        <?php include($_SERVER["DOCUMENT_ROOT"] . "/javascript-files.php"); ?>
+        <?php include("javascript-files.php"); ?>
     </body>
 </html>

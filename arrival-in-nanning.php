@@ -1,17 +1,17 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <?php include($_SERVER["DOCUMENT_ROOT"] . "/head.php"); ?>
+        <?php include("head.php"); ?>
     </head>
 
     <body>
         <div id="fouc">
             <div class="site-wrap">
-                <?php include($_SERVER["DOCUMENT_ROOT"] . "/header.php"); ?>
+                <?php include("header.php"); ?>
 
                 <!-- Add page content here -->
                 <div class="page-content arrival-in-nanning blog-post">
-                    <img class="featured-image" src="/images/nanning.jpg"/>
+                    <img class="featured-image" src="images/nanning.jpg"/>
                     <h1>Arrival in Nanning</h1>
                     <p class="post-date">12th May 2012 11:24</p>
                     <p>The first train journey on my trip so far was mercifully uneventful. It departed Guilin around 8am and only lasted four or five hours. I did manage to oversleep by around forty-five minutes, but luckily had left myself enough time anyway!</p>
@@ -83,10 +83,10 @@
                 </div>
 
                 <img class="back-to-top hidden" src="images/icons/up-arrow.jpg"/>
-                <?php include($_SERVER["DOCUMENT_ROOT"] . "/footer.php"); ?>
+                <?php include("footer.php"); ?>
             </div>
         </div>
 
-        <?php include($_SERVER["DOCUMENT_ROOT"] . "/javascript-files.php"); ?>
+        <?php include("javascript-files.php"); ?>
     </body>
 </html>

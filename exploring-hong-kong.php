@@ -1,17 +1,17 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <?php include($_SERVER["DOCUMENT_ROOT"] . "/head.php"); ?>
+        <?php include("head.php"); ?>
     </head>
 
     <body>
         <div id="fouc">
             <div class="site-wrap">
-                <?php include($_SERVER["DOCUMENT_ROOT"] . "/header.php"); ?>
+                <?php include("header.php"); ?>
 
                 <!-- Add page content here -->
                 <div class="page-content exploring-hong-kong blog-post">
-                    <img class="featured-image" src="/images/hong-kong-explore.jpg"/>
+                    <img class="featured-image" src="images/hong-kong-explore.jpg"/>
                     <h1>Exploring Hong Kong</h1>
                     <p class="post-date">25th April 2012 17:28</p>
                     <p>CouchSurfing. Hands up if you've heard of it! No prizes if I already told you before, that's cheating.</p>
@@ -150,10 +150,10 @@
                 </div>
 
                 <img class="back-to-top hidden" src="images/icons/up-arrow.jpg"/>
-                <?php include($_SERVER["DOCUMENT_ROOT"] . "/footer.php"); ?>
+                <?php include("footer.php"); ?>
             </div>
         </div>
 
-        <?php include($_SERVER["DOCUMENT_ROOT"] . "/javascript-files.php"); ?>
+        <?php include("javascript-files.php"); ?>
     </body>
 </html>
