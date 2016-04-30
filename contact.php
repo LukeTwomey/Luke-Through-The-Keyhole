@@ -13,6 +13,7 @@
                 <div class="page-content contact">
                     <div class="contact-form">
                         <h1>Contact</h1>
+                        <p>Send me a message while I'm on my travels!</p>
                         <form class="contactForm" method="post" name="contactForm">
                             <input id="name" name="name" required placeholder="Name" type="text"/>
                             <input id="email" name="email" required placeholder="E-mail" type="email"/>
