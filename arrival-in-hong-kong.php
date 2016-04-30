@@ -102,7 +102,7 @@
                     <p>The hostel I'm staying in doesn't have a common area, so I haven't really had a chance to meet anyone yet. I briefly chat to a Spanish guy I saw coming out of his room as we went down in the lift, but that's about it. But tonight I'm meeting my first Couchsurfing host, to stay with her for the next two nights. More on that in the next update!</p>
                 </div>
 
-                <img class="back-to-top hidden" src="/images/icons/up-arrow.jpg"/>
+                <img class="back-to-top hidden" src="images/icons/up-arrow.jpg"/>
                 <?php include($_SERVER["DOCUMENT_ROOT"] . "/footer.php"); ?>
             </div>
         </div>

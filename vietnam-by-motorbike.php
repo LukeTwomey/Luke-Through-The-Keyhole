@@ -140,7 +140,7 @@
                     <p>I arrived back in Hanoi on the 23rd, which is where I've been since. Despite the dreadful third day of travel, I've not been put off the bike. I'm now in planning for the next trip. Watch this space...</p>
                 </div>
 
-                <img class="back-to-top hidden" src="/images/icons/up-arrow.jpg"/>
+                <img class="back-to-top hidden" src="images/icons/up-arrow.jpg"/>
                 <?php include($_SERVER["DOCUMENT_ROOT"] . "/footer.php"); ?>
             </div>
         </div>

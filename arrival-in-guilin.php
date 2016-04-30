@@ -11,7 +11,7 @@
 
                 <!-- Add page content here -->
                 <div class="page-content arrival-in-guilin blog-post">
-                    <img class="featured-image" src="/images/guilin.jpg"/>
+                    <img class="featured-image" src="images/guilin.jpg"/>
                     <h1>Arrival in Guilin</h1>
                     <p class="post-date">6th May 2012 09:50</p>
                     <p>The drivers here are INSANE. I'd only been in Guilin half an hour and the airport shuttle bus driver nearly killed us by running straight through a red light. The thing is, at the time I thought that was a moment of madness. No. Everyone does it. All the time! </p>
@@ -113,7 +113,7 @@
                     <p>That was a long one, thanks for sticking with it! Next up, Nanning.</p>
                 </div>
 
-                <img class="back-to-top hidden" src="/images/icons/up-arrow.jpg"/>
+                <img class="back-to-top hidden" src="images/icons/up-arrow.jpg"/>
                 <?php include($_SERVER["DOCUMENT_ROOT"] . "/footer.php"); ?>
             </div>
         </div>

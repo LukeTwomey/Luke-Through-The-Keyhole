@@ -22,7 +22,7 @@
                     <p>Thanks a lot for checking out the site. I'd love to hear from you, check out the 'Contact' section to find out how.</p>
                 </div>
 
-                <img class="back-to-top hidden" src="/images/icons/up-arrow.jpg"/>
+                <img class="back-to-top hidden" src="images/icons/up-arrow.jpg"/>
                 <?php include($_SERVER["DOCUMENT_ROOT"] . "/footer.php"); ?>
             </div>
         </div>

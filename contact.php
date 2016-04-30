@@ -24,11 +24,11 @@
                     </div>
 
                     <div class="contact-image">
-                        <img src="/images/contact.jpg"/>
+                        <img src="images/contact.jpg"/>
                     </div>
                 </div>
 
-                <img class="back-to-top hidden" src="/images/icons/up-arrow.jpg"/>
+                <img class="back-to-top hidden" src="images/icons/up-arrow.jpg"/>
                 <?php include("footer.php"); ?>
             </div>
         </div>

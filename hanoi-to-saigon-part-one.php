@@ -45,7 +45,7 @@
                     <p>As it turns out, that was slightly later than Joakim, as he'd made the turn off the main road to the hotel, after seeing the sign. Unfortunately with it being dark, I didn't notice him turn and rode on a couple of kilometres further down the road, with Raj behind me. We soon realised our mistake, and turned back around, to find Joakim heading towards us having guessed our error. Happily reunited, we checked in and ate some much needed food, drank some much needed beer (becoming a theme) and gladly retired to bed.</p>
                 </div>
 
-                <img class="back-to-top hidden" src="/images/icons/up-arrow.jpg"/>
+                <img class="back-to-top hidden" src="images/icons/up-arrow.jpg"/>
                 <?php include($_SERVER["DOCUMENT_ROOT"] . "/footer.php"); ?>
             </div>
         </div>

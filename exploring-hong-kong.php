@@ -149,7 +149,7 @@
                     <p>Bit of a long post this one, but I've had no time before now! Next up, day trip to Macau and the next destination after Hong Kong.</p>
                 </div>
 
-                <img class="back-to-top hidden" src="/images/icons/up-arrow.jpg"/>
+                <img class="back-to-top hidden" src="images/icons/up-arrow.jpg"/>
                 <?php include($_SERVER["DOCUMENT_ROOT"] . "/footer.php"); ?>
             </div>
         </div>

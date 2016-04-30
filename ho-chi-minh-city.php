@@ -157,7 +157,7 @@
                     <p>One thing remains constant regardless of where I visit though, the time seems to fly past and before I know it I need to move on to my next stop. From Ho Chi Minh, I ride across the border to a brand new country; Cambodia.</p>
                 </div>
 
-                <img class="back-to-top hidden" src="/images/icons/up-arrow.jpg"/>
+                <img class="back-to-top hidden" src="images/icons/up-arrow.jpg"/>
                 <?php include($_SERVER["DOCUMENT_ROOT"] . "/footer.php"); ?>
             </div>
         </div>

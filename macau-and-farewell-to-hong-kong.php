@@ -55,7 +55,7 @@
                     <a href="http://www.flickr.com/photos/luketwomey/6998861916/" title="Hong Kong-91 by luketwomey, on Flickr" target="_blank"><img src="https://farm8.staticflickr.com/7204/7145056733_1e2c6eee56_z.jpg" alt="Hong Kong-91"></a>
                 </div>
 
-                <img class="back-to-top hidden" src="/images/icons/up-arrow.jpg"/>
+                <img class="back-to-top hidden" src="images/icons/up-arrow.jpg"/>
                 <?php include($_SERVER["DOCUMENT_ROOT"] . "/footer.php"); ?>
             </div>
         </div>
