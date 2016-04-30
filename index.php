@@ -12,11 +12,11 @@
                 <!-- Add page content here -->
                 <div class="page-content index">
                     <article>
-                        <a href="#"><img class="featured-image" src="/images/ho-chi-minh.jpg"/></a>
+                        <a href="/blog/ho-chi-minh-city.php"><img class="featured-image" src="/images/ho-chi-minh.jpg"/></a>
                         <div class="preview-text">
-                            <a href="#"><h2 class="post-title">Ho Chi Minh City</h2></a>
+                            <a href="/blog/ho-chi-minh-city.php"><h2 class="post-title">Ho Chi Minh City</h2></a>
                             <p>After the journey I'd been on to get here, Ho Chi Minh City certainly...</p>
-                            <a href="/blog/hello-and-welcome.php" class="button">Read more...</a>
+                            <a href="/blog/ho-chi-minh-city.php" class="button">Read more...</a>
                         </div>
                     </article>
                     <article>
