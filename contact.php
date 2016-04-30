@@ -13,7 +13,13 @@
                 <div class="page-content contact">
                     <div class="contact-form">
                         <h1>Contact</h1>
-
+                        <form class="contactForm" method="post" name="contactForm">
+                            <input id="name" name="name" required placeholder="Name" type="text"/>
+                            <input id="email" name="email" required placeholder="E-mail" type="email"/>
+                            <input name="subject" value=" has sent a new message" type="hidden"/>
+                            <textarea id="message" name="message" required rows="3" placeholder="Message"></textarea>
+                            <input type="submit" value="Send"/>
+                        </form>
                     </div>
 
                     <div class="contact-image">

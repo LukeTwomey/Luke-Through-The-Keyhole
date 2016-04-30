@@ -160,7 +160,8 @@ input {
 }
 
 button,
-.button{
+.button,
+input[type="submit"]{
     .SmoothHover(0.5s);
     border-radius: 5px;
     border: none;
@@ -178,7 +179,8 @@ button,
 }
 
 button:hover,
-.button:hover{
+.button:hover,
+input[type="submit"]:hover{
     background: #8e8981;
 }
 
@@ -474,6 +476,31 @@ figure img,
 }
 
 /**************************************************************
+******************        CONTACT          ********************
+**************************************************************/
+
+.contact-form form{
+    padding: 0.5em 0 1em 0;
+}
+
+.contactForm input,
+.contactForm textarea{
+    font-family: @mainFont;
+    font-size: 1em;
+    width: 100%;
+    margin-bottom: 1em;
+    border: 1px solid#929c9b;
+    border-radius: 3px;
+    padding: 0.5em 1em;
+}
+
+.contactForm input[type="submit"]{
+    font-family: bebas;
+    font-size: 1.3em;
+    margin-top: 0;
+}
+
+/**************************************************************
 ******************         FOOTER           ******************
 **************************************************************/
 
@@ -571,6 +598,7 @@ footer{
         margin-right: 2%;
         width: 29.33%;
     }
+
 
 
 }
