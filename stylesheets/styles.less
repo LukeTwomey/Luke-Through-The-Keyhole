@@ -1,0 +1,1153 @@
+/* Eric Meyer's Reset CSS v2.0 - http://cssreset.com */
+html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,address,big,cite,code,del,dfn,em,img,ins,kbd,q,s,samp,small,strike,strong,sub,sup,tt,var,b,u,i,center,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td,article,aside,canvas,details,embed,figure,figcaption,footer,header,hgroup,menu,nav,output,ruby,section,summary,time,mark,audio,video{border:0;font-size:100%;font:inherit;vertical-align:baseline;margin:0;padding:0}article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section{display:block}body{line-height:1}ol,ul{list-style:none}blockquote,q{quotes:none}blockquote:before,blockquote:after,q:before,q:after{content:none}table{border-collapse:collapse;border-spacing:0}
+
+
+
+/**************************************************************
+/**************************************************************
+****************         VARIABLES          *******************
+**************************************************************/
+
+@headerHeight: 80px;
+@mainFont: 'Source Sans Pro', sans-serif;
+@mainFontColor: #3b4140;
+@mainFontHoverColor: #596462;
+
+/**************************************************************
+******************         FONTS          ********************
+**************************************************************/
+
+@font-face {
+    font-family: Bebas;
+    //src: url("../fonts/BebasNeue Regular.otf") format("opentype");
+    src: url("../fonts/bebasneue_regular-webfont.woff2") format("woff2");
+    src: url("../fonts/bebasneue_regular-webfont.woff") format("woff");
+}
+
+/**************************************************************
+******************         MIXINS          ********************
+**************************************************************/
+
+.SmoothHover(@speed){
+    -o-transition: color @speed ease-in-out, background @speed ease-in-out;
+    -ms-transition: color @speed ease-in-out, background @speed ease-in-out;
+    -moz-transition: color @speed ease-in-out, background @speed ease-in-out;
+    -webkit-transition: color @speed ease-in-out, background @speed ease-in-out;
+    transition: color @speed ease-in-out, background @speed ease-in-out;
+}
+
+.Clearfix{
+	*zoom:1;
+	&:before,
+	&:after {
+	    content:"";
+	    display:table;
+	}
+	&:after {
+	    clear:both;
+	}
+}
+
+.Flexbox{
+    display: -webkit-box;
+        display: -moz-box;
+        display: -ms-flexbox;
+        display: -webkit-flex;
+        display: flex;
+}
+
+.Flex($values) {
+  -webkit-box-flex: $values;
+  -moz-box-flex:  $values;
+  -webkit-flex:  $values;
+  -ms-flex:  $values;
+  flex:  $values;
+}
+
+.Order($val) {
+  -webkit-box-ordinal-group: $val;
+  -moz-box-ordinal-group: $val;
+  -ms-flex-order: $val;
+  -webkit-order: $val;
+  order: $val;
+}
+
+/**************************************************************
+*****************         CLASSES          *******************
+**************************************************************/
+
+.hidden{
+    display: none;
+}
+
+.invisible{
+    opacity: 0;
+}
+
+.freeze{
+    overflow-y: hidden;
+}
+
+/**************************************************************
+******************         GENERAL          *******************
+**************************************************************/
+
+html{
+    box-sizing: border-box;
+    font-size: 1em;
+//    background: #bac2c1;
+    background: url(../images/bg2.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+
+body{
+    color: @mainFontColor;
+    font-family: @mainFont;
+    overflow-x: hidden;
+    text-rendering: optimizeLegibility;
+    font-feature-settings: "kern","liga";
+    -webkit-font-smoothing: antialiased;
+}
+
+#fouc{
+    overflow-x: hidden;
+}
+
+h1, h2, p{
+    margin-bottom: 0.75em;
+}
+
+h1{
+    font-size: 2em;
+    line-height: 1.2em;
+    text-transform: uppercase;
+    font-family: bebas;
+    text-align: center;
+    margin-bottom: 0.2em;
+}
+
+h2{
+    font-size: 1.3em;
+}
+
+p, ul, ol, blockquote, figcaption{
+    font-size: 1em;
+    line-height: 1.5em;
+}
+
+ul, ol{
+    list-style: square;
+}
+
+ol{
+    list-style: decimal;
+}
+
+a{
+    text-decoration: none;
+}
+
+img{
+    display: block;
+    max-width: 100%;
+    width: 100%;
+}
+
+input {
+    -webkit-appearance: none;
+}
+
+button,
+.button,
+input[type="submit"]{
+    .SmoothHover(0.5s);
+    border-radius: 5px;
+    border: none;
+    background: #67635D;
+    color: #f4f4f4;
+    cursor: pointer;
+    display: block;
+    font-family: Bebas;
+    font-size: 1.4em;
+    font-weight: 100;
+    letter-spacing: 0.02em;
+    margin-top: 1em;
+    padding: 0.3em 1.5em;
+    text-align: center;
+}
+
+button:hover,
+.button:hover,
+input[type="submit"]:hover{
+    background: #8e8981;
+}
+
+em{
+    font-style: italic;
+}
+
+strong, bold{
+    font-weight: 600;
+}
+
+.site-wrap{
+    position: relative;
+}
+
+.back-to-top{
+    border: 1px solid @mainFontColor;
+    cursor: pointer;
+    width: 40px;
+    height: 40px;
+    position: fixed;
+    bottom: 1em;
+    right: 1em;
+    border-radius: 5px;
+}
+
+/**************************************************************
+******************         HEADER          *******************
+**************************************************************/
+
+header{
+	background: #929c9b;
+    font-size: 1rem;
+    height: @headerHeight;
+    position: fixed;
+    top: 0;
+    left: 0;
+    text-align: center;
+    width: 100%;
+    z-index: 1;
+}
+
+header .content{
+    max-width: 900px;
+    margin: 0 auto;
+}
+
+.menu{
+    cursor: pointer;
+    font-size: 1rem;
+    height: 40px;
+    left: 16px;
+    padding: 5px;
+    position: absolute;
+    top: 16px;
+    width: 40px;
+}
+
+.logo{
+    display: inline-block;
+    margin-top: 18px;
+    max-width: 156px;
+}
+
+
+/*****************   NAV   *****************/
+
+/*********************************
+******      GENERAL      ********
+********************************/
+
+nav{
+    background: rgba(255,255,255,0.7);
+    border-bottom: 1px solid #D3D0E1;
+    display: none;
+    overflow-y: auto;
+    padding-bottom: 57px;
+    position: fixed;
+    text-align: left;
+    top: @headerHeight;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    z-index: 1;
+}
+
+nav > ul li a{
+	color: @mainFontColor;
+    display: block;
+    font-family: Bebas;
+    font-size: 1.4em;
+    height: 100%;
+    padding: 1em;
+    text-align: center;
+    width: 100%;
+}
+
+/* Give the "parent" list items a dropdown arrow to indicate they can be expanded to show a sub-menu */
+nav > ul li.parent{
+    /*background-size: ;*/
+}
+
+/* Don't show any child menus initially. We only want these to appear if the user taps button to display them */
+nav > ul li ul{
+    display: none;
+}
+
+/* Add dividing line between menu items - not necessary for the very last one */
+nav > ul li:not(:last-child){
+    border-bottom: 1px solid #000;
+}
+
+/* If the list item is a parent, reduce the width of the hyperlink contained within it.
+   This reveals the li below, allowing us to use it as a fake button which when clicked displays its child menu */
+nav > ul li.parent > a{
+    width: 80%;
+}
+
+/*********************************
+******     1st LEVEL     ********
+********************************/
+
+@1st-level-color: #fff;
+
+nav > ul > li > a{
+    background: @1st-level-color;
+}
+
+nav > ul > li.parent{
+	background: @1st-level-color url(../images/icons/submenu.png) 92% 21px no-repeat;
+    background-size: 15px 15px;
+}
+
+/*********************************
+******     2nd LEVEL     ********
+********************************/
+
+@2nd-level-color: #f4f4f4;
+
+nav > ul > li > ul > li > a{
+    background: @2nd-level-color;
+}
+
+nav > ul > li > ul > li.parent{
+	background: @2nd-level-color url(../images/icons/submenu.png) 92% 21px no-repeat;
+    background-size: 15px 15px;
+}
+
+/*********************************
+******     3rd LEVEL     ********
+********************************/
+
+@3rd-level-color: #dfdfdf;
+
+nav > ul > li > ul > li > ul > li > a{
+    background: @3rd-level-color;
+}
+
+nav > ul > li > ul > li > ul >li.parent{
+	background: @3rd-level-color url(../images/icons/submenu.png) 92% 21px no-repeat;
+    background-size: 15px 15px;
+}
+
+
+/**************************************************************
+***************         PAGE-CONTENT          *****************
+**************************************************************/
+
+.page-content{
+    .Clearfix;
+    background: #bac2c1;
+    font-size: 1rem;
+    margin-top: @headerHeight;
+    max-width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 1.5em;
+    z-index: 0;
+}
+
+.about.page-content a:link,
+.about.page-content a:visited,
+.about.page-content a:active{
+    color: #67635D;
+}
+
+.about.page-content a:hover{
+    color: #8e8981;
+}
+
+/**************************************************************
+******************         INDEX          *********************
+**************************************************************/
+
+.index{
+    .Flexbox();
+    flex-wrap: wrap;
+}
+
+.index article{
+    background: #fff;
+    border-radius: 5px;
+    border: 1px solid #949b9a;
+    margin-bottom: 1.5em;
+    padding-bottom: 45px;
+    position: relative;
+    width: 100%;
+}
+
+.index .featured-image{
+    border-radius: 5px 5px 0 0;
+}
+
+.preview-text{
+    padding: 1em;
+    text-align: center;
+}
+
+.post-title{
+    text-align: center;
+}
+
+.post-title{
+    color: @mainFontColor;
+    text-transform: uppercase;
+    font-weight: 600;
+}
+
+.post-title:hover{
+    color: @mainFontHoverColor;
+}
+
+.index article .button{
+    position: absolute;
+    bottom: 0.7em;
+    left: 0.7em;
+    right: 0.7em;
+}
+
+/**************************************************************
+******************         ABOUT          *********************
+**************************************************************/
+
+.about img{
+    margin-bottom: 1em;
+}
+
+.flickr-gallery{
+    .Clearfix();
+    margin-top: 2em;
+}
+
+.flickr-gallery img{
+    float: left;
+    margin-left: 2%;
+    margin-right: 2%;
+    width: 46%;
+}
+
+/**************************************************************
+****************         BLOG POST          *******************
+**************************************************************/
+
+.blog-post h1{
+    font-size: 1.7em;
+    margin-bottom: 0.25em;
+}
+
+.post-date{
+    font-size: 0.9em;
+    font-style: italic;
+    margin-bottom: 1em;
+}
+
+.blog-post .featured-image{
+    margin-bottom: 1em;
+}
+
+figure,
+.blog-post img{
+    margin: 1em 0;
+}
+
+figcaption{
+    font-style: italic;
+    font-size: 0.9em;
+    margin-top: 0.5em;
+}
+
+figure img,
+.blog-post img{
+    width: auto;
+}
+
+/**************************************************************
+******************        CONTACT          ********************
+**************************************************************/
+
+.contact-form form{
+    padding: 0.5em 0 1em 0;
+}
+
+.contactForm input,
+.contactForm textarea{
+    font-family: @mainFont;
+    font-size: 1em;
+    width: 100%;
+    margin-bottom: 1em;
+    border: 1px solid#929c9b;
+    border-radius: 3px;
+    padding: 0.5em 1em;
+}
+
+.contactForm input[type="submit"]{
+    font-family: bebas;
+    font-size: 1.3em;
+    margin-top: 0;
+}
+
+/**************************************************************
+******************         FOOTER           ******************
+**************************************************************/
+
+footer{
+    background: #929c9b;
+    float: left;
+    font-size: 0.8rem;
+    min-height: 80px;
+    padding: 1em;
+    text-align: center;
+    width: 100%;
+}
+
+.social,
+.copyright{
+    text-align: center;
+}
+
+.social{
+    margin-top: 1em;
+    margin-bottom: 2em;
+}
+
+.social img{
+    display: inline-block;
+    width: 40px;
+}
+
+
+/****************************************************************************************************************
+*****************************************************************************************************************
+***************************                  OVER 500 PIXELS WIDE             ***********************************
+*****************************************************************************************************************
+****************************************************************************************************************/
+
+@media (min-width: 31.25em) {
+
+    /**************************************************************
+    ******************         GENERAL          *******************
+    **************************************************************/
+
+	/*html{
+        font-size: 1.5em;
+    }*/
+
+    h1{
+        text-align: left;
+    }
+
+    /**************************************************************
+    ********************         INDEX          *******************
+    **************************************************************/
+
+    .index article{
+        width: 45.9%;
+        float: left;
+        margin-left: 2%;
+        margin-right: 2%;
+        margin-bottom: 2.5em;
+    }
+
+    /**************************************************************
+    ****************         BLOG POST          *******************
+    **************************************************************/
+
+    .blog-post img{
+        width: auto;
+    }
+
+    .blog-post .featured-image{
+        width: 45%;
+        float: right;
+        margin-left: 1em;
+    }
+
+    /**************************************************************
+    ******************         ABOUT          *********************
+    **************************************************************/
+
+    .about img{
+        margin-right: 1em;
+        margin-bottom: 1em;
+        float: left;
+        width: 45%;
+    }
+
+    .about .page-text{
+        float: left;
+        width: 50%;
+    }
+
+    .flickr-gallery img{
+        float: left;
+        margin-left: 2%;
+        margin-right: 2%;
+        width: 29.33%;
+    }
+
+    /**************************************************************
+    *****************         CONTACT          ********************
+    **************************************************************/
+
+//    .contact.page-content{
+//        .Flexbox();
+//    }
+
+    .contact-form,
+    .contact-image{
+        float: left;
+        width: 50%;
+    }
+
+    .contact-form{
+        padding-right: 1.5em;
+    }
+
+//    .contact-image img{
+//        display: none;
+//    }
+
+//    .contact-image{
+//        background-image: url("/images/contact.jpg");
+//        background-size: cover;
+//        background-position: center top;
+//    }
+
+    .contact-form form {
+        padding: 0.5em 0 0 0;
+    }
+
+    .contactForm input[type="submit"]{
+        margin-bottom: 0;
+    }
+
+}
+
+/****************************************************************************************************************
+*****************************************************************************************************************
+***************************                  OVER 700 PIXELS WIDE             ***********************************
+*****************************************************************************************************************
+****************************************************************************************************************/
+
+@media (min-width: 43.75em) {
+
+    /**************************************************************
+    ******************         GENERAL          *******************
+    **************************************************************/
+
+	/*html{
+        font-size: 2em;
+    }*/
+
+    /**************************************************************
+    ******************         ABOUT          *********************
+    **************************************************************/
+
+    .flickr-gallery img {
+        margin-left: 1%;
+        margin-right: 1%;
+        width: 14.66%;
+    }
+
+}
+
+/****************************************************************************************************************
+*****************************************************************************************************************
+***************************                  OVER 900 PIXELS WIDE             ***********************************
+***************************                  - MENU CHANGE                    ***********************************
+*****************************************************************************************************************
+****************************************************************************************************************/
+
+@media (min-width: 56.25em) {
+
+    /**************************************************************
+    ******************         GENERAL          *******************
+    **************************************************************/
+
+	/*html{
+        font-size: 2em;
+    }*/
+
+    /**************************************************************
+    ******************         HEADER          *******************
+    **************************************************************/
+
+    header{
+        padding: 0 1em;
+        text-align: left;
+    }
+
+    .menu{
+        display: none;
+    }
+
+    /*****************   NAV   *****************/
+
+    /*********************************
+    ******      GENERAL      ********
+    ********************************/
+
+    nav{
+        border-bottom: none;
+        display: block;
+        float: right;
+        background: transparent;
+        overflow-y: visible;
+        padding-bottom: 0;
+        position: relative;
+        text-align: right;
+        top: 0;
+        width: 80%;
+        z-index: 1;
+    }
+
+    nav ul > li{
+        display: inline-block;
+    }
+
+    /* Remove dividing line between menu items - no longer needed */
+    nav > ul li:not(:last-child){
+        border-bottom: none;
+    }
+
+    /* Remove the dropdown from "parent" list items */
+    nav > ul li.parent,
+    nav > ul li ul li.parent,
+    nav > ul li ul li ul li.parent{
+        background-image: none;
+    }
+
+    /* If the list item is a parent, make it full width again. No longer need a button to click to drop down a menu, hover instead on desktop layout */
+    nav > ul li.parent > a{
+        width: 100%;
+    }
+
+    /* When a "parent" list item is hovered over, show its child menu */
+    li.parent:hover > ul{
+        display: block;
+    }
+
+    /* All child menus need to have this styling - regardless of what level they are */
+    nav > ul > li ul{
+        position: absolute;
+        text-align: left;
+        width: auto;
+    }
+
+    /* Make the list items for child menus stack vertically ontop of each other, instead of side by side */
+    nav > ul > li ul li{
+        display: block;
+    }
+
+    /* Make sure menu item labels all stay on one line */
+    nav > ul > li ul li a{
+        white-space: nowrap;
+    }
+
+    /* When you hover over an li, change its colour. This is global but you can set it by level if required */
+    nav > ul li:hover{
+        background: #8e8981!important;
+    }
+
+    nav > ul a{
+        background: transparent;
+    }
+
+    /* Set the height of everything so it matches the height of the header and the list item labels are vertically centered*/
+    nav,
+    nav > ul,
+    nav > ul > li{
+        height: @headerHeight;
+    }
+
+    nav > ul > li > a{
+        line-height: @headerHeight;
+        padding: 0 1em;
+    }
+
+    /*********************************
+    ******     1st LEVEL     ********
+    ********************************/
+
+    @1st-level-color: transparent;
+
+    nav > ul > li > a,
+    nav > ul > li.parent{
+        background: @1st-level-color;
+    }
+
+    /*********************************
+    ******     2nd LEVEL     ********
+    ********************************/
+
+    @2nd-level-color: #fff;
+
+    nav > ul > li > ul > li{
+        position: relative;
+    }
+
+    nav > ul > li > ul > li > a{
+        background: transparent;
+    }
+
+    nav > ul > li > ul > li,
+    nav > ul > li > ul > li.parent{
+        background: @2nd-level-color;
+    }
+
+    /*********************************
+    ******     3rd LEVEL     ********
+    ********************************/
+
+    @3rd-level-color: #eeeeee;
+
+    nav > ul > li > ul > li > ul{
+        left: 100%;
+        top: 0;
+        width: auto;
+    }
+
+    nav > ul > li > ul > li > ul > li{
+        width: 100%;
+    }
+
+    nav > ul > li > ul > li > ul > li > a{
+        background: transparent;
+    }
+
+    nav > ul > li > ul > li > ul > li,
+    nav > ul > li > ul > li > ul > li.parent{
+        background: @3rd-level-color;
+    }
+
+
+    /**************************************************************
+    ******************         INDEX           *******************
+    **************************************************************/
+
+	/*html{
+        font-size: 2em;
+    }*/
+
+    .index article {
+        width: 29.33%;
+        float: left;
+        margin-left: 2%;
+        margin-right: 2%;
+    }
+
+}
+
+
+
+
+
+/*! fancyBox v2.1.5 fancyapps.com | fancyapps.com/fancybox/#license */
+.fancybox-wrap,
+.fancybox-skin,
+.fancybox-outer,
+.fancybox-inner,
+.fancybox-image,
+.fancybox-wrap iframe,
+.fancybox-wrap object,
+.fancybox-nav,
+.fancybox-nav span,
+.fancybox-tmp
+{
+	padding: 0;
+	margin: 0;
+	border: 0;
+	outline: none;
+	vertical-align: top;
+}
+
+.fancybox-wrap {
+	position: absolute;
+	top: 0;
+	left: 0;
+	z-index: 8020;
+}
+
+.fancybox-skin {
+	position: relative;
+	background: #f9f9f9;
+	color: #444;
+	text-shadow: none;
+	-webkit-border-radius: 4px;
+	   -moz-border-radius: 4px;
+	        border-radius: 4px;
+}
+
+.fancybox-opened {
+	z-index: 8030;
+}
+
+.fancybox-opened .fancybox-skin {
+	-webkit-box-shadow: 0 10px 25px rgba(0, 0, 0, 0.5);
+	   -moz-box-shadow: 0 10px 25px rgba(0, 0, 0, 0.5);
+	        box-shadow: 0 10px 25px rgba(0, 0, 0, 0.5);
+}
+
+.fancybox-outer, .fancybox-inner {
+	position: relative;
+}
+
+.fancybox-inner {
+	overflow: hidden;
+}
+
+.fancybox-type-iframe .fancybox-inner {
+	-webkit-overflow-scrolling: touch;
+}
+
+.fancybox-error {
+	color: #444;
+	font: 14px/20px "Helvetica Neue",Helvetica,Arial,sans-serif;
+	margin: 0;
+	padding: 15px;
+	white-space: nowrap;
+}
+
+.fancybox-image, .fancybox-iframe {
+	display: block;
+	width: 100%;
+	height: 100%;
+}
+
+.fancybox-image {
+	max-width: 100%;
+	max-height: 100%;
+}
+
+#fancybox-loading, .fancybox-close, .fancybox-prev span, .fancybox-next span {
+	background-image: url('fancybox_sprite.png');
+}
+
+#fancybox-loading {
+	position: fixed;
+	top: 50%;
+	left: 50%;
+	margin-top: -22px;
+	margin-left: -22px;
+	background-position: 0 -108px;
+	opacity: 0.8;
+	cursor: pointer;
+	z-index: 8060;
+}
+
+#fancybox-loading div {
+	width: 44px;
+	height: 44px;
+	background: url('fancybox_loading.gif') center center no-repeat;
+}
+
+.fancybox-close {
+	position: absolute;
+	top: -18px;
+	right: -18px;
+	width: 36px;
+	height: 36px;
+	cursor: pointer;
+	z-index: 8040;
+}
+
+.fancybox-nav {
+	position: absolute;
+	top: 0;
+	width: 40%;
+	height: 100%;
+	cursor: pointer;
+	text-decoration: none;
+	background: transparent url('blank.gif'); /* helps IE */
+	-webkit-tap-highlight-color: rgba(0,0,0,0);
+	z-index: 8040;
+}
+
+.fancybox-prev {
+	left: 0;
+}
+
+.fancybox-next {
+	right: 0;
+}
+
+.fancybox-nav span {
+	position: absolute;
+	top: 50%;
+	width: 36px;
+	height: 34px;
+	margin-top: -18px;
+	cursor: pointer;
+	z-index: 8040;
+	visibility: hidden;
+}
+
+.fancybox-prev span {
+	left: 10px;
+	background-position: 0 -36px;
+}
+
+.fancybox-next span {
+	right: 10px;
+	background-position: 0 -72px;
+}
+
+.fancybox-nav:hover span {
+	visibility: visible;
+}
+
+.fancybox-tmp {
+	position: absolute;
+	top: -99999px;
+	left: -99999px;
+	visibility: hidden;
+	max-width: 99999px;
+	max-height: 99999px;
+	overflow: visible !important;
+}
+
+/* Overlay helper */
+
+.fancybox-lock {
+    overflow: hidden !important;
+    width: auto;
+}
+
+.fancybox-lock body {
+    overflow: hidden !important;
+}
+
+.fancybox-lock-test {
+    overflow-y: hidden !important;
+}
+
+.fancybox-overlay {
+	position: absolute;
+	top: 0;
+	left: 0;
+	overflow: hidden;
+	display: none;
+	z-index: 8010;
+	background: url('fancybox_overlay.png');
+}
+
+.fancybox-overlay-fixed {
+	position: fixed;
+	bottom: 0;
+	right: 0;
+}
+
+.fancybox-lock .fancybox-overlay {
+	overflow: auto;
+	overflow-y: scroll;
+}
+
+/* Title helper */
+
+.fancybox-title {
+	visibility: hidden;
+	font: normal 13px/20px "Helvetica Neue",Helvetica,Arial,sans-serif;
+	position: relative;
+	text-shadow: none;
+	z-index: 8050;
+}
+
+.fancybox-opened .fancybox-title {
+	visibility: visible;
+}
+
+.fancybox-title-float-wrap {
+	position: absolute;
+	bottom: 0;
+	right: 50%;
+	margin-bottom: -35px;
+	z-index: 8050;
+	text-align: center;
+}
+
+.fancybox-title-float-wrap .child {
+	display: inline-block;
+	margin-right: -100%;
+	padding: 2px 20px;
+	background: transparent; /* Fallback for web browsers that doesn't support RGBa */
+	background: rgba(0, 0, 0, 0.8);
+	-webkit-border-radius: 15px;
+	   -moz-border-radius: 15px;
+	        border-radius: 15px;
+	text-shadow: 0 1px 2px #222;
+	color: #FFF;
+	font-weight: bold;
+	line-height: 24px;
+	white-space: nowrap;
+}
+
+.fancybox-title-outside-wrap {
+	position: relative;
+	margin-top: 10px;
+	color: #fff;
+}
+
+.fancybox-title-inside-wrap {
+	padding-top: 10px;
+}
+
+.fancybox-title-over-wrap {
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	color: #fff;
+	padding: 10px;
+	background: #000;
+	background: rgba(0, 0, 0, .8);
+}
+
+/*Retina graphics!*/
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5),
+	   only screen and (min--moz-device-pixel-ratio: 1.5),
+	   only screen and (min-device-pixel-ratio: 1.5){
+
+	#fancybox-loading, .fancybox-close, .fancybox-prev span, .fancybox-next span {
+		background-image: url('fancybox_sprite@2x.png');
+		background-size: 44px 152px; /*The size of the normal image, half the size of the hi-res image*/
+	}
+
+	#fancybox-loading div {
+		background-image: url('fancybox_loading@2x.gif');
+		background-size: 24px 24px; /*The size of the normal image, half the size of the hi-res image*/
+	}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
