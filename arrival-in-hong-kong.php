@@ -32,68 +32,68 @@
 
                     <p>Here are some photos of my "cosy" room:</p>
 
-                    <a href="http://www.flickr.com/photos/luketwomey/7092385963/" title="Hong Kong-19 by luketwomey, on Flickr" target="_blank">
-                        <img src="https://farm6.staticflickr.com/5112/7092385963_b98eb6aff0.jpg" alt="Hong Kong-19">
+                    <a href="images/posts/arrival-in-hong-kong/IMG_4304-large.jpg" class="fancybox">
+                        <img src="images/posts/arrival-in-hong-kong/IMG_4304.jpg"/>
                     </a>
 
-                    <a href="http://www.flickr.com/photos/luketwomey/6946321426/" title="Hong Kong-20 by luketwomey, on Flickr" target="_blank">
-                        <img src="https://farm8.staticflickr.com/7061/6946321426_4123613e78.jpg" alt="Hong Kong-20">
+                    <a href="images/posts/arrival-in-hong-kong/IMG_4305-large.jpg" class="fancybox">
+                        <img src="images/posts/arrival-in-hong-kong/IMG_4305.jpg"/>
                     </a>
 
-                    <a href="http://www.flickr.com/photos/luketwomey/7092395405/" title="Hong Kong-21 by luketwomey, on Flickr" target="_blank">
-                        <img src="https://farm8.staticflickr.com/7134/7092395405_e90a4e0771.jpg" alt="Hong Kong-21">
+                    <a href="images/posts/arrival-in-hong-kong/IMG_4306-large.jpg" class="fancybox">
+                        <img src="images/posts/arrival-in-hong-kong/IMG_4306.jpg"/>
                     </a>
 
-                    <a href="http://www.flickr.com/photos/luketwomey/6946331514/" title="Hong Kong-22 by luketwomey, on Flickr" target="_blank">
-                        <img src="https://farm8.staticflickr.com/7083/6946331514_276676393e.jpg" alt="Hong Kong-22">
+                    <a href="images/posts/arrival-in-hong-kong/IMG_4307-large.jpg" class="fancybox">
+                        <img src="images/posts/arrival-in-hong-kong/IMG_4307.jpg"/>
                     </a>
 
-                    <a href="http://www.flickr.com/photos/luketwomey/7092407263/" title="Hong Kong-23 by luketwomey, on Flickr" target="_blank"
-                       ><img src="https://farm8.staticflickr.com/7131/7092407263_c8a6b0d6d6.jpg" alt="Hong Kong-23">
+                    <a href="images/posts/arrival-in-hong-kong/IMG_4308-large.jpg" class="fancybox">
+                        <img src="images/posts/arrival-in-hong-kong/IMG_4308.jpg"/>
                     </a>
 
                     <p>The position of the shower is inspired. I'm not sure if this is representative of other hostels here, I'll find out soon enough. You also can't have too much pressure behind the water, or it all pools on the floor and overflows into the room. You can't expect much for £25 a night though!</p>
 
                     <p>The weather here is cloudy with occasional light showers, which is a shame because it means the view of Hong Kong island from the Kowloon shoreline is very misty.</p>
 
-                    <a href="http://www.flickr.com/photos/luketwomey/7090990909/" title="Hong Kong-13 by luketwomey, on Flickr" target="_blank">
-                        <img src="https://farm6.staticflickr.com/5113/7090990909_87b5168fb7_z.jpg" alt="Hong Kong-13">
+                    <a href="images/posts/arrival-in-hong-kong/IMG_4310-large.jpg" class="fancybox">
+                        <img src="images/posts/arrival-in-hong-kong/IMG_4310.jpg"/>
                     </a>
 
-                    <a href="http://www.flickr.com/photos/luketwomey/6944668660/" title="Hong Kong-7 by luketwomey, on Flickr" target="_blank">
-                        <img src="https://farm8.staticflickr.com/7227/6944668660_39b8628439.jpg" alt="Hong Kong-7">
+                    <a href="images/posts/arrival-in-hong-kong/IMG_4316-large.jpg" class="fancybox">
+                        <img src="images/posts/arrival-in-hong-kong/IMG_4316.jpg"/>
                     </a>
 
-                    <a href="http://www.flickr.com/photos/luketwomey/7090789501/" title="Hong Kong-4 by luketwomey, on Flickr" target="_blank">
-                        <img src="https://farm6.staticflickr.com/5445/7090789501_575bd0b791_z.jpg" alt="Hong Kong-4">
+                    <a href="images/posts/arrival-in-hong-kong/IMG_4311-large.jpg" class="fancybox">
+                        <img src="images/posts/arrival-in-hong-kong/IMG_4311.jpg"/>
                     </a>
 
-                    <a href="http://www.flickr.com/photos/luketwomey/6944815478/" title="Hong Kong-8 by luketwomey, on Flickr" target="_blank">
-                        <img src="https://farm6.staticflickr.com/5076/6944815478_33f4f10690_z.jpg" alt="Hong Kong-8">
+                    <a href="images/posts/arrival-in-hong-kong/IMG_4317-large.jpg" class="fancybox">
+                        <img src="images/posts/arrival-in-hong-kong/IMG_4317.jpg"/>
                     </a>
 
                     <p>I really hope it clears up for at least one of the days I'm here, as I want to take the tram to the top of Victoria Peak. This gives a fantastic view over the harbour and Hong Kong, but not with weather like this!</p>
 
                     <p>In complete contrast to the chaos on the streets, Kowloon Park is so tranquil and calm you could scarcely believe you're in the same city. I haven't even been there in the day yet, but at night it's amazing. The place is very big, but no matter which path you wander along you feel completely safe. I saw at least three security guards patrolling, but there's just a bunch of people in there going for a relaxing stroll or taking half an hour away from the madness outside the gates.</p>
 
-                    <a href="http://www.flickr.com/photos/luketwomey/6944959628/" title="Hong Kong-16 by luketwomey, on Flickr" target="_blank">
-                        <img src="https://farm6.staticflickr.com/5332/6944959628_c2218b0778.jpg" alt="Hong Kong-16">
+                    <a href="images/posts/arrival-in-hong-kong/IMG_4340-large.jpg" class="fancybox">
+                        <img src="images/posts/arrival-in-hong-kong/IMG_4340.jpg"/>
                     </a>
 
-                    <a href="http://www.flickr.com/photos/luketwomey/7090912621/" title="Hong Kong-9 by luketwomey, on Flickr" target="_blank">
-                        <img src="https://farm6.staticflickr.com/5118/7090912621_5abba2b199.jpg" alt="Hong Kong-9">
+                    <a href="images/posts/arrival-in-hong-kong/IMG_4333-large.jpg" class="fancybox">
+                        <img src="images/posts/arrival-in-hong-kong/IMG_4333.jpg"/>
                     </a>
 
-                    <a href="http://www.flickr.com/photos/luketwomey/6944867290/" title="Hong Kong-10 by luketwomey, on Flickr" target="_blank">
-                        <img src="https://farm6.staticflickr.com/5279/6944867290_688b6cb2e8.jpg" alt="Hong Kong-10">
+                    <a href="images/posts/arrival-in-hong-kong/IMG_4336-large.jpg" class="fancybox">
+                        <img src="images/posts/arrival-in-hong-kong/IMG_4336.jpg"/>
                     </a>
 
-                    <a href="http://www.flickr.com/photos/luketwomey/6944965382/" title="Hong Kong-17 by luketwomey, on Flickr" target="_blank">
-                        <img src="https://farm6.staticflickr.com/5467/6944965382_00d17114ec.jpg" alt="Hong Kong-17">
+                    <a href="images/posts/arrival-in-hong-kong/IMG_4343-large.jpg" class="fancybox">
+                        <img src="images/posts/arrival-in-hong-kong/IMG_4343.jpg"/>
                     </a>
 
-                    <a href="http://www.flickr.com/photos/luketwomey/7091002107/" title="Hong Kong-14 by luketwomey, on Flickr">
-                        <img src="https://farm6.staticflickr.com/5324/7091002107_7f061bff85.jpg" alt="Hong Kong-14">
+                    <a href="images/posts/arrival-in-hong-kong/IMG_4331-large.jpg" class="fancybox">
+                        <img src="images/posts/arrival-in-hong-kong/IMG_4331.jpg"/>
                     </a>
 
                     <p>The food situation's been fine so far. I know some people (including myself!) predicted this would be a big problem - for those that don't know, I'm a slightly fussy eater. The general rule I have is meat = good, veg = bad. There are a few exceptions but in general that holds true. I've stuck to things I know (crab dumplings, BBQ pork with rice, egg fried rice with prawns, skewered chicken and beef) and everything's been hunky dory. I

@@ -30,65 +30,109 @@
 
                     <p>These are the Sun and Moon pagodas in Shan Lake, which was just a few minutes walk from my hostel:</p>
 
-                    <a href="http://www.flickr.com/photos/luketwomey/6999035526/" title="Guilin-3 by luketwomey, on Flickr" target="_blank"><img src="https://farm8.staticflickr.com/7101/6999035526_b0f88cfc08.jpg" alt="Guilin-3"></a>
+                    <a href="images/posts/arrival-in-guilin/03_Guilin-3-large.jpg" class="fancybox">
+                        <img src="images/posts/arrival-in-guilin/03_Guilin-3.jpg"/>
+                    </a>
 
-                    <a href="http://www.flickr.com/photos/luketwomey/7145103627/" title="Guilin-2 by luketwomey, on Flickr" target="_blank"><img src="https://farm9.staticflickr.com/8010/7145103627_35dcecb0ce_z.jpg" alt="Guilin-2"></a>
+                    <a href="images/posts/arrival-in-guilin/02_Guilin-2-large.jpg" class="fancybox">
+                        <img src="images/posts/arrival-in-guilin/02_Guilin-2.jpg"/>
+                    </a>
 
-                    <a href="http://www.flickr.com/photos/luketwomey/6999046318/" title="Guilin-4 by luketwomey, on Flickr" target="_blank"><img src="https://farm6.staticflickr.com/5450/6999046318_87e1eddd6c.jpg" alt="Guilin-4"></a>
+                    <a href="images/posts/arrival-in-guilin/04_Guilin-4-large.jpg" class="fancybox">
+                        <img src="images/posts/arrival-in-guilin/04_Guilin-4.jpg"/>
+                    </a>
 
                     <p>And here's some from the Li river tour I went on:</p>
 
-                    <a href="http://www.flickr.com/photos/luketwomey/6999077434/" title="Guilin-8 by luketwomey, on Flickr" target="_blank"><img src="https://farm8.staticflickr.com/7115/6999077434_10b58a4f60_z.jpg" alt="Guilin-8"></a>
+                    <a href="images/posts/arrival-in-guilin/08_Guilin-8-large.jpg" class="fancybox">
+                        <img src="images/posts/arrival-in-guilin/08_Guilin-8.jpg"/>
+                    </a>
 
-                    <a href="http://www.flickr.com/photos/luketwomey/6999081324/" title="Guilin-9 by luketwomey, on Flickr" target="_blank"><img src="https://farm9.staticflickr.com/8147/6999081324_dabdae2bd7_z.jpg" alt="Guilin-9"></a>
+                    <a href="images/posts/arrival-in-guilin/09_Guilin-9-large.jpg" class="fancybox">
+                        <img src="images/posts/arrival-in-guilin/09_Guilin-9.jpg"/>
+                    </a>
 
-                    <a href="http://www.flickr.com/photos/luketwomey/7145141427/" title="Guilin-6 by luketwomey, on Flickr" target="_blank"><img src="https://farm8.staticflickr.com/7055/7145141427_05987bd714_z.jpg" alt="Guilin-6"></a>
+                    <a href="images/posts/arrival-in-guilin/06_Guilin-6-large.jpg" class="fancybox">
+                        <img src="images/posts/arrival-in-guilin/06_Guilin-6.jpg"/>
+                    </a>
 
-                    <a href="http://www.flickr.com/photos/luketwomey/6999066846/" title="Guilin-7 by luketwomey, on Flickr" target="_blank"><img src="https://farm9.staticflickr.com/8162/6999066846_35284e9e92.jpg" alt="Guilin-7"></a>
+                    <a href="images/posts/arrival-in-guilin/07_Guilin-7-large.jpg" class="fancybox">
+                        <img src="images/posts/arrival-in-guilin/07_Guilin-7.jpg"/>
+                    </a>
 
                     <figure>
-                        <a href="http://www.flickr.com/photos/luketwomey/6999089196/" title="Guilin-10 by luketwomey, on Flickr" target="_blank">
-                            <img src="https://farm6.staticflickr.com/5341/6999089196_e083c97431_z.jpg" />
-                        </a>
+                        <a href="images/posts/arrival-in-guilin/10_Guilin-10-large.jpg" class="fancybox">
+                        <img src="images/posts/arrival-in-guilin/10_Guilin-10.jpg"/>
+                    </a>
                         <figcaption>This backdrop is on the 20 yuan note which this lady is kindly holding up!</figcaption>
                     </figure>
 
-                    <a href="http://www.flickr.com/photos/luketwomey/7145180931/" title="Guilin-11 by luketwomey, on Flickr" target="_blank"><img src="https://farm8.staticflickr.com/7037/7145180931_93a1a031fd_z.jpg" alt="Guilin-11"></a>
+                    <a href="images/posts/arrival-in-guilin/13_Guilin-11-large.jpg" class="fancybox">
+                        <img src="images/posts/arrival-in-guilin/13_Guilin-11.jpg"/>
+                    </a>
 
-                    <a href="http://www.flickr.com/photos/luketwomey/6999110342/" title="Guilin-13 by luketwomey, on Flickr" target="_blank"><img src="https://farm8.staticflickr.com/7093/6999110342_216a9fed20_z.jpg" alt="Guilin-13"></a>
+                    <a href="images/posts/arrival-in-guilin/12_Guilin-13-large.jpg" class="fancybox">
+                        <img src="images/posts/arrival-in-guilin/12_Guilin-13.jpg"/>
+                    </a>
 
-                    <a href="http://www.flickr.com/photos/luketwomey/7145203281/" title="Guilin-14 by luketwomey, on Flickr" target="_blank"><img src="https://farm9.staticflickr.com/8155/7145203281_bd47e96867_z.jpg" alt="Guilin-14"></a>
+                    <a href="images/posts/arrival-in-guilin/14_Guilin-14-large.jpg" class="fancybox">
+                        <img src="images/posts/arrival-in-guilin/14_Guilin-14.jpg"/>
+                    </a>
 
-                    <a href="http://www.flickr.com/photos/luketwomey/6999136202/" title="Guilin-16 by luketwomey, on Flickr" target="_blank"><img src="https://farm8.staticflickr.com/7225/6999136202_96be0dd745_z.jpg" alt="Guilin-16"></a>
+                    <a href="images/posts/arrival-in-guilin/17_Guilin-16-large.jpg" class="fancybox">
+                        <img src="images/posts/arrival-in-guilin/17_Guilin-16.jpg"/>
+                    </a>
 
-                    <a href="http://www.flickr.com/photos/luketwomey/6999150870/" title="Guilin-18 by luketwomey, on Flickr" target="_blank"><img src="https://farm8.staticflickr.com/7102/6999150870_14ec571c11_z.jpg" alt="Guilin-18"></a>
+                    <a href="images/posts/arrival-in-guilin/19_Guilin-18-large.jpg" class="fancybox">
+                        <img src="images/posts/arrival-in-guilin/19_Guilin-18.jpg"/>
+                    </a>
 
                     <figure>
-                        <a href="http://www.flickr.com/photos/luketwomey/6999625856/" title="Guilin-5 by luketwomey, on Flickr" target="_blank">
-                            <img src="https://farm8.staticflickr.com/7113/6999625856_20c809513d_z.jpg" />
-                        </a>
+                        <a href="images/posts/arrival-in-guilin/05_Guilin-5-large.jpg" class="fancybox">
+                        <img src="images/posts/arrival-in-guilin/05_Guilin-5.jpg"/>
+                    </a>
                         <figcaption>These guys are Cormorants, used by the villagers for fishing...</figcaption>
                     </figure>
 
-                    <a href="http://www.flickr.com/photos/luketwomey/6999103262/" title="Guilin-12 by luketwomey, on Flickr" target="_blank"><img src="https://farm8.staticflickr.com/7042/6999103262_a62f3e5326_z.jpg" alt="Guilin-12"></a>
+                    <a href="images/posts/arrival-in-guilin/11_Guilin-12-large.jpg" class="fancybox">
+                        <img src="images/posts/arrival-in-guilin/11_Guilin-12.jpg"/>
+                    </a>
 
-                    <a href="http://www.flickr.com/photos/luketwomey/7145721753/" title="Guilin-19 by luketwomey, on Flickr" target="_blank"><img src="https://farm6.staticflickr.com/5455/7145721753_b0a9662846_z.jpg" alt="Guilin-19"></a>
+                    <a href="images/posts/arrival-in-guilin/20_Guilin-19-large.jpg" class="fancybox">
+                        <img src="images/posts/arrival-in-guilin/20_Guilin-19.jpg"/>
+                    </a>
 
-                    <a href="http://www.flickr.com/photos/luketwomey/6999639468/" title="Guilin-20 by luketwomey, on Flickr" target="_blank"><img src="https://farm8.staticflickr.com/7127/6999639468_d74d70597b_z.jpg" alt="Guilin-20"></a>
+                    <a href="images/posts/arrival-in-guilin/21_Guilin-20-large.jpg" class="fancybox">
+                        <img src="images/posts/arrival-in-guilin/21_Guilin-20.jpg"/>
+                    </a>
 
-                    <a href="http://www.flickr.com/photos/luketwomey/7145211297/" title="Guilin-15 by luketwomey, on Flickr" target="_blank"><img src="https://farm8.staticflickr.com/7234/7145211297_fce22f80bc_z.jpg" alt="Guilin-15"></a>
+                    <a href="images/posts/arrival-in-guilin/15_Guilin-15-large.jpg" class="fancybox">
+                        <img src="images/posts/arrival-in-guilin/15_Guilin-15.jpg"/>
+                    </a>
 
-                    <a href="http://www.flickr.com/photos/luketwomey/6999008090/" title="Guilin-0 by luketwomey, on Flickr" target="_blank"><img src="https://farm9.staticflickr.com/8026/6999008090_0a87af311b_z.jpg" alt="Guilin-0"></a>
+                    <a href="images/posts/arrival-in-guilin/16_Guilin-0-large.jpg" class="fancybox">
+                        <img src="images/posts/arrival-in-guilin/16_Guilin-0.jpg"/>
+                    </a>
 
-                    <a href="http://www.flickr.com/photos/luketwomey/6999649094/" title="Guilin-22 by luketwomey, on Flickr" target="_blank"><img src="https://farm6.staticflickr.com/5111/6999649094_0f94a42400_z.jpg" alt="Guilin-22"></a>
+                    <a href="images/posts/arrival-in-guilin/23_Guilin-22-large.jpg" class="fancybox">
+                        <img src="images/posts/arrival-in-guilin/23_Guilin-22.jpg"/>
+                    </a>
 
-                    <a href="http://www.flickr.com/photos/luketwomey/7145731345/" title="Guilin-21 by luketwomey, on Flickr" target="_blank"><img src="https://farm8.staticflickr.com/7036/7145731345_2c64cf8c19_z.jpg" alt="Guilin-21"></a>
+                    <a href="images/posts/arrival-in-guilin/22_Guilin-21-large.jpg" class="fancybox">
+                        <img src="images/posts/arrival-in-guilin/22_Guilin-21.jpg"/>
+                    </a>
 
-                    <a href="http://www.flickr.com/photos/luketwomey/7145742053/" title="Guilin-23 by luketwomey, on Flickr" target="_blank"><img src="https://farm8.staticflickr.com/7052/7145742053_21b7b64bae_z.jpg" alt="Guilin-23"></a>
+                    <a href="images/posts/arrival-in-guilin/24_Guilin-23-large.jpg" class="fancybox">
+                        <img src="images/posts/arrival-in-guilin/24_Guilin-23.jpg"/>
+                    </a>
 
-                    <a href="http://www.flickr.com/photos/luketwomey/6999143900/" title="Guilin-17 by luketwomey, on Flickr" target="_blank"><img src="https://farm8.staticflickr.com/7039/6999143900_4f474a458e_z.jpg" alt="Guilin-17"></a>
+                    <a href="images/posts/arrival-in-guilin/18_Guilin-17-large.jpg" class="fancybox">
+                        <img src="images/posts/arrival-in-guilin/18_Guilin-17.jpg"/>
+                    </a>
 
-                    <a href="http://www.flickr.com/photos/luketwomey/7145749843/" title="Guilin-24 by luketwomey, on Flickr" target="_blank"><img src="https://farm8.staticflickr.com/7206/7145749843_783810a561_z.jpg" alt="Guilin-24"></a>
+                    <a href="images/posts/arrival-in-guilin/25_Guilin-24-large.jpg" class="fancybox">
+                        <img src="images/posts/arrival-in-guilin/25_Guilin-24.jpg"/>
+                    </a>
 
                     <p>I think you'll agree, it was well worth the trip. The first part was four hours on a big boat cruising down the Li river to Yangshuo, where we had an hour of free time before heading to a small village for a couple of hours bamboo rafting. It was absolutely incredible. The limestone karsts provide a unique backdrop, it makes for quite an experience.</p>
 

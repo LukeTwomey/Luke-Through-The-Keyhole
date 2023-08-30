@@ -32,13 +32,21 @@
 
                     <p>It turns out the temptation to drink any more that evening would not be a problem for me anyway, as I had conveniently run out of money. I had not anticipated the lack of any major towns or cities (and the ATM's these would bring) along the route, and obviously did not withdraw enough before leaving Hanoi. Luckily between us we had enough to cover food and accommodation until we reached the next big place, but it was touch and go for a while.</p>
 
-                    <a href="http://www.flickr.com/photos/luketwomey/7166124099/" title="Hanoi to Saigon-2 by luketwomey, on Flickr" target="_blank"><img src="https://farm8.staticflickr.com/7226/7166124099_5d1989f1e4_z.jpg"  alt="Hanoi to Saigon-2"></a>
+                    <a href="images/posts/hanoi-to-saigon-part-one/03_Hanoi to Saigon-2-large.jpg" class="fancybox">
+                        <img src="images/posts/hanoi-to-saigon-part-one/03_Hanoi to Saigon-2.jpg"/>
+                    </a>
 
-                    <a href="http://www.flickr.com/photos/luketwomey/7166101043/" title="Hanoi to Saigon-0 by luketwomey, on Flickr" target="_blank"><img src="https://farm8.staticflickr.com/7245/7166101043_603743c01d_z.jpg"  alt="Hanoi to Saigon-0"></a>
+                    <a href="images/posts/hanoi-to-saigon-part-one/01_Hanoi to Saigon-0-large.jpg" class="fancybox">
+                        <img src="images/posts/hanoi-to-saigon-part-one/01_Hanoi to Saigon-0.jpg"/>
+                    </a>
 
-                    <a href="http://www.flickr.com/photos/luketwomey/7166111977/" title="Hanoi to Saigon-1 by luketwomey, on Flickr" target="_blank"><img src="https://farm8.staticflickr.com/7233/7166111977_3a8ac5743d_z.jpg"  alt="Hanoi to Saigon-1"></a>
+                    <a href="images/posts/hanoi-to-saigon-part-one/02_Hanoi to Saigon-1-large.jpg" class="fancybox">
+                        <img src="images/posts/hanoi-to-saigon-part-one/02_Hanoi to Saigon-1.jpg"/>
+                    </a>
 
-                    <a href="http://www.flickr.com/photos/luketwomey/7166140145/" title="Hanoi to Saigon-3 by luketwomey, on Flickr" target="_blank"><img src="https://farm8.staticflickr.com/7217/7166140145_6f8f8b1d05.jpg" alt="Hanoi to Saigon-3"></a>
+                    <a href="images/posts/hanoi-to-saigon-part-one/04_Hanoi to Saigon-3-large.jpg" class="fancybox">
+                        <img src="images/posts/hanoi-to-saigon-part-one/04_Hanoi to Saigon-3.jpg"/>
+                    </a>
 
                     <p>We had intended to have a marathon stretch the next day to try and make up some of the time we'd lost at the beginning. We didn't realise at the time exactly how much of a marathon  it would turn into. We made good progress all day, keeping up a decent average speed. But as it got towards the end of what we considered to be enough of a run for one day, we discovered we were unable to find a guesthouse or hotel at any of the places we were riding through. We managed to find out from a villager in extremely broken English, that the nearest place to have a hotel was some twenty kilometres away. This is not something you particularly want to hear when you are already exhausted, and it is beginning to get dark. We wearily rode on, eventually getting to our destination after riding for five minutes in the dark. Not a pleasant experience on Vietnamese roads. I was so glad to see the neon lights of the hotel that night.</p>
 

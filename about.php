@@ -22,12 +22,24 @@
                     <p><a href="https://www.flickr.com/photos/luketwomey/">Check out my Flickr photostream</a> which will be regularly updated with the amazing moments I capture along the way.</p>
 
                     <div class="flickr-gallery">
-                        <a href="https://flic.kr/p/dzSn5n"><img src="images/boat-sunset.jpg"/></a>
-                        <a href="https://www.flickr.com/gp/luketwomey/BuSr7P"><img src="images/surfing.jpg"/></a>
-                        <a href="https://www.flickr.com/gp/luketwomey/E3xF27"><img src="images/siem-reap.jpg"/></a>
-                        <a href="https://www.flickr.com/gp/luketwomey/3So5s9"><img src="images/lighthouse.jpg"/></a>
-                        <a href="https://www.flickr.com/gp/luketwomey/pZK2jy"> <img src="images/new-z.jpg"/></a>
-                        <a href="https://www.flickr.com/gp/luketwomey/34mP0p"><img src="images/scuba.jpg"/></a>
+                        <a href="images/posts/airlie-beach-whitsunday-islands/airlie-beach-11_8259552081_o-large.jpg" class="fancybox">
+                            <img src="images/boat-sunset.jpg"/>
+                        </a>
+                        <a href="images/posts/byron-bay/p1310211_8286926808_o-large.jpg" class="fancybox">
+                            <img src="images/surfing.jpg"/>
+                        </a>
+                        <a href="images/posts/siem-reap/siem-reap-1_7646158292_o-large.jpg" class="fancybox">
+                            <img src="images/siem-reap.jpg"/>
+                        </a>
+                        <a href="images/posts/the-catlins/catlins-2-18_8540959922_o-large.jpg" class="fancybox">
+                            <img src="images/lighthouse.jpg"/>
+                        </a>
+                        <a href="images/posts/the-catlins/catlins-2-1_8537991691_o-large.jpg" class="fancybox">
+                            <img src="images/new-z.jpg"/>
+                        </a>
+                        <a href="images/posts/koh-tao/camera-roll-321_7982518386_o-large.jpg" class="fancybox">
+                            <img src="images/scuba.jpg"/>
+                        </a>
                     </div>
                 </div>
 

@@ -26,57 +26,103 @@
 
                     <p>Nanning is a really nice place, it has a very pleasant atmosphere to it. It's pretty funny walking around there getting stared at constantly by people, because there's so few Westerners there. Other than the people I met in my hostel I think I saw two. This actually turns you into something of a Z-list celebrity. I had a couple of people come up to me and ask to have a photo taken with me, presumably to stick on their refrigerator. Such a hard life being a celebrity and keeping your fans happy.</p>
 
-                    <a href="http://www.flickr.com/photos/luketwomey/7153460499/" title="Nanning-17 by luketwomey, on Flickr" target="_blank"><img src="https://farm8.staticflickr.com/7117/7153460499_42e0eb5290.jpg" alt="Nanning-17"></a>
+                    <a href="images/posts/arrival-in-nanning/15_Nanning-17-large.jpg" class="fancybox">
+                        <img src="images/posts/arrival-in-nanning/15_Nanning-17.jpg"/>
+                    </a>
 
                     <p>My friend Chan in the UK is from Nanning originally, so she gave me lots of help with people to see, places to go etc (thanks Chan you're a star!). One of the places she recommended was a small cultural relic park right near my hostel. I actually couldn't find much about this online but it was a very pretty place:</p>
 
-                    <a href="http://www.flickr.com/photos/luketwomey/7007322514/" title="Nanning-12 by luketwomey, on Flickr" target="_blank"><img src="https://farm8.staticflickr.com/7229/7007322514_c169470345.jpg" alt="Nanning-12"></a>
+                    <a href="images/posts/arrival-in-nanning/09_Nanning-12-large.jpg" class="fancybox">
+                        <img src="images/posts/arrival-in-nanning/09_Nanning-12.jpg"/>
+                    </a>
 
-                    <a href="http://www.flickr.com/photos/luketwomey/7007344068/" title="Nanning-14 by luketwomey, on Flickr" target="_blank"><img src="https://farm6.staticflickr.com/5235/7007344068_be4babc2e2_z.jpg" alt="Nanning-14"></a>
+                    <a href="images/posts/arrival-in-nanning/12_Nanning-14-large.jpg" class="fancybox">
+                        <img src="images/posts/arrival-in-nanning/12_Nanning-14.jpg"/>
+                    </a>
 
-                    <a href="http://www.flickr.com/photos/luketwomey/7153425801/" title="Nanning-13 by luketwomey, on Flickr" target="_blank"><img src="https://farm8.staticflickr.com/7105/7153425801_2a54be7a78_z.jpg" alt="Nanning-13"></a>
+                    <a href="images/posts/arrival-in-nanning/11_Nanning-13-large.jpg" class="fancybox">
+                        <img src="images/posts/arrival-in-nanning/11_Nanning-13.jpg"/>
+                    </a>
 
-                    <a href="http://www.flickr.com/photos/luketwomey/7153452401/" title="Nanning-16 by luketwomey, on Flickr" target="_blank"><img src="https://farm8.staticflickr.com/7244/7153452401_1bd9edc2b7.jpg" alt="Nanning-16"></a>
+                    <a href="images/posts/arrival-in-nanning/14_Nanning-16-large.jpg" class="fancybox">
+                        <img src="images/posts/arrival-in-nanning/14_Nanning-16.jpg"/>
+                    </a>
 
-                    <a href="http://www.flickr.com/photos/luketwomey/7007353344/" title="Nanning-15 by luketwomey, on Flickr" target="_blank"><img src="https://farm8.staticflickr.com/7202/7007353344_f33a54c465_z.jpg" alt="Nanning-15"></a>
+                    <a href="images/posts/arrival-in-nanning/13_Nanning-15-large.jpg" class="fancybox">
+                        <img src="images/posts/arrival-in-nanning/13_Nanning-15.jpg"/>
+                    </a>
 
-                    <a href="http://www.flickr.com/photos/luketwomey/7007254368/" title="Nanning-8 by luketwomey, on Flickr" target="_blank"><img src="https://farm8.staticflickr.com/7062/7007254368_22c959d974_z.jpg" alt="Nanning-8"></a>
+                    <a href="images/posts/arrival-in-nanning/10_Nanning-8-large.jpg" class="fancybox">
+                        <img src="images/posts/arrival-in-nanning/10_Nanning-8.jpg"/>
+                    </a>
 
                     <p>Another recommendation from Chan - Qingxiu Mountain - was beautiful, but hard work! I stupidly walked straight past the electric shuttle buggy things at the front gate, only to massively regret that decision after an hour or two walking around. Who'd have thought a mountain would be so hilly?</p>
 
-                    <a href="http://www.flickr.com/photos/luketwomey/7153185739/" title="Nanning-18 by luketwomey, on Flickr" target="_blank"><img src="https://farm8.staticflickr.com/7262/7153185739_c2238f53c2_z.jpg" alt="Nanning-18"></a>
+                    <a href="images/posts/arrival-in-nanning/16_Nanning-18-large.jpg" class="fancybox">
+                        <img src="images/posts/arrival-in-nanning/16_Nanning-18.jpg"/>
+                    </a>
 
-                    <a href="http://www.flickr.com/photos/luketwomey/7153352411/" title="Nanning-9 by luketwomey, on Flickr" target="_blank"><img src="https://farm6.staticflickr.com/5155/7153352411_2b41e3ac16_z.jpg" alt="Nanning-9"></a>
+                    <a href="images/posts/arrival-in-nanning/17_Nanning-9-large.jpg" class="fancybox">
+                        <img src="images/posts/arrival-in-nanning/17_Nanning-9.jpg"/>
+                    </a>
 
-                    <a href="http://www.flickr.com/photos/luketwomey/7007281946/" title="Nanning-10 by luketwomey, on Flickr" target="_blank"><img src="https://farm9.staticflickr.com/8142/7007281946_75e43e6736_z.jpg" alt="Nanning-10"></a>
+                    <a href="images/posts/arrival-in-nanning/18_Nanning-10-large.jpg" class="fancybox">
+                        <img src="images/posts/arrival-in-nanning/18_Nanning-10.jpg"/>
+                    </a>
 
-                    <a href="http://www.flickr.com/photos/luketwomey/7007289352/" title="Nanning-11 by luketwomey, on Flickr" target="_blank"><img src="https://farm6.staticflickr.com/5461/7007289352_5751cd42a1_z.jpg" alt="Nanning-11"></a>
+                    <a href="images/posts/arrival-in-nanning/20_Nanning-11-large.jpg" class="fancybox">
+                        <img src="images/posts/arrival-in-nanning/20_Nanning-11.jpg"/>
+                    </a>
 
-                    <a href="http://www.flickr.com/photos/luketwomey/7153468147/" title="Nanning-19 by luketwomey, on Flickr" target="_blank"><img src="https://farm8.staticflickr.com/7085/7153468147_908b7119a6_z.jpg" alt="Nanning-19"></a>
+                    <a href="images/posts/arrival-in-nanning/19_Nanning-19-large.jpg" class="fancybox">
+                        <img src="images/posts/arrival-in-nanning/19_Nanning-19.jpg"/>
+                    </a>
 
-                    <a href="http://www.flickr.com/photos/luketwomey/7007395542/" title="Nanning-20 by luketwomey, on Flickr" target="_blank"><img src="https://farm8.staticflickr.com/7186/7007395542_e3059f5689.jpg" alt="Nanning-20"></a>
+                    <a href="images/posts/arrival-in-nanning/21_Nanning-20-large.jpg" class="fancybox">
+                        <img src="images/posts/arrival-in-nanning/21_Nanning-20.jpg"/>
+                    </a>
 
-                    <a href="http://www.flickr.com/photos/luketwomey/7153502143/" title="Nanning-21 by luketwomey, on Flickr" target="_blank"><img src="https://farm8.staticflickr.com/7279/7153502143_b0880f3b04_z.jpg" alt="Nanning-21"></a>
+                    <a href="images/posts/arrival-in-nanning/22_Nanning-21-large.jpg" class="fancybox">
+                        <img src="images/posts/arrival-in-nanning/22_Nanning-21.jpg"/>
+                    </a>
 
-                    <a href="http://www.flickr.com/photos/luketwomey/7007440700/" title="Nanning-22 by luketwomey, on Flickr" target="_blank"><img src="https://farm9.staticflickr.com/8159/7007440700_6d1c5bb9d9_z.jpg" alt="Nanning-22"></a>
+                    <a href="images/posts/arrival-in-nanning/23_Nanning-22-large.jpg" class="fancybox">
+                        <img src="images/posts/arrival-in-nanning/23_Nanning-22.jpg"/>
+                    </a>
 
-                    <a href="http://www.flickr.com/photos/luketwomey/7007452764/" title="Nanning-23 by luketwomey, on Flickr" target="_blank"><img src="https://farm9.staticflickr.com/8153/7007452764_579526dfce_z.jpg" alt="Nanning-23"></a>
+                    <a href="images/posts/arrival-in-nanning/24_Nanning-23-large.jpg" class="fancybox">
+                        <img src="images/posts/arrival-in-nanning/24_Nanning-23.jpg"/>
+                    </a>
 
                     <p>I met a nice guy at my hostel called Darko, from Switzerland who was interested in going to Detian Waterfall, which is right by the Vietnamese border. It was a long bus journey to get there - four and a half hours - but it was definitely worth the trip and the early start. The water flow wasn't very strong, but it was still a magnificent sight.</p>
 
-                    <a href="http://www.flickr.com/photos/luketwomey/7007121150/" title="Nanning-0 by luketwomey, on Flickr" target="_blank"><img src="https://farm9.staticflickr.com/8028/7007121150_4d47c33856_z.jpg" alt="Nanning-0"></a>
+                    <a href="images/posts/arrival-in-nanning/08_Nanning-0-large.jpg" class="fancybox">
+                        <img src="images/posts/arrival-in-nanning/08_Nanning-0.jpg"/>
+                    </a>
 
-                    <a href="http://www.flickr.com/photos/luketwomey/7007125786/" title="Nanning-1 by luketwomey, on Flickr" target="_blank"><img src="https://farm8.staticflickr.com/7188/7007125786_63c76891f2_z.jpg" alt="Nanning-1"></a>
+                    <a href="images/posts/arrival-in-nanning/01_Nanning-1-large.jpg" class="fancybox">
+                        <img src="images/posts/arrival-in-nanning/01_Nanning-1.jpg"/>
+                    </a>
 
-                    <a href="http://www.flickr.com/photos/luketwomey/7007144004/" title="Nanning-2 by luketwomey, on Flickr" target="_blank"><img src="https://farm8.staticflickr.com/7221/7007144004_4d47c33856_z.jpg" alt="Nanning-2"></a>
+                    <a href="images/posts/arrival-in-nanning/03_Nanning-2-large.jpg" class="fancybox">
+                        <img src="images/posts/arrival-in-nanning/03_Nanning-2.jpg"/>
+                    </a>
 
-                    <a href="http://www.flickr.com/photos/luketwomey/7007152526/" title="Nanning-3 by luketwomey, on Flickr" target="_blank"><img src="https://farm8.staticflickr.com/7253/7007152526_0ae1d3c8f4_z.jpg" alt="Nanning-3"></a>
+                    <a href="images/posts/arrival-in-nanning/04_Nanning-3-large.jpg" class="fancybox">
+                        <img src="images/posts/arrival-in-nanning/04_Nanning-3.jpg"/>
+                    </a>
 
-                    <a href="http://www.flickr.com/photos/luketwomey/7007207846/" title="Nanning-4 by luketwomey, on Flickr" target="_blank"><img src="https://farm6.staticflickr.com/5344/7007207846_e714ecbf22_z.jpg" alt="Nanning-4"></a>
+                    <a href="images/posts/arrival-in-nanning/05_Nanning-4-large.jpg" class="fancybox">
+                        <img src="images/posts/arrival-in-nanning/05_Nanning-4.jpg"/>
+                    </a>
 
-                    <a href="http://www.flickr.com/photos/luketwomey/7153316289/" title="Nanning-5 by luketwomey, on Flickr" target="_blank"><img src="https://farm9.staticflickr.com/8162/7153316289_682f3cc0e6_z.jpg" alt="Nanning-5"></a>
+                    <a href="images/posts/arrival-in-nanning/06_Nanning-5-large.jpg" class="fancybox">
+                        <img src="images/posts/arrival-in-nanning/06_Nanning-5.jpg"/>
+                    </a>
 
-                    <a href="http://www.flickr.com/photos/luketwomey/7007238772/" title="Nanning-6 by luketwomey, on Flickr" target="_blank"><img src="https://farm6.staticflickr.com/5462/7007238772_5c76ee42ef_z.jpg" alt="Nanning-6"></a>
+                    <a href="images/posts/arrival-in-nanning/07_Nanning-6-large.jpg" class="fancybox">
+                        <img src="images/posts/arrival-in-nanning/07_Nanning-6.jpg"/>
+                    </a>
 
                     <p>I didn't get a chance to see much more of Nanning, as I was already delayed getting to Vietnam from my detour to Guilin. My visa for Vietnam had already started, so I bought the bus ticket to Hanoi and hit the road!</p>
 

@@ -38,7 +38,9 @@
 
                     <p>With a new plan in place, we said our farewells and Joakim and I set off on the road through the mountains to Khe Sanh that we'd begun the previous day. The road was long, exhausting, but beautiful, and we were sad that Raj could not enjoy it with us.</p>
 
-                    <a href="http://www.flickr.com/photos/luketwomey/7351360218/" title="Hanoi to Saigon-4 by luketwomey, on Flickr" target="_blank"><img src="https://farm8.staticflickr.com/7236/7351360218_bf2021d6c2_z.jpg" alt="Hanoi to Saigon-4"></a>
+                    <a href="images/posts/hanoi-to-saigon-part-two/05_Hanoi to Saigon-4-large.jpg" class="fancybox">
+                        <img src="images/posts/hanoi-to-saigon-part-two/05_Hanoi to Saigon-4.jpg"/>
+                    </a>
 
                     <p>When we arrived we found out that she had discovered she could transport herself and her bike on the train from Dong Hoi to Hoi An. She had booked her ticket and was all set to meet us there when we arrived.</p>
 
@@ -50,13 +52,21 @@
 
                     <p>We finished off the day on a high (literally) as we rode over Hai Van Pass before descending towards Hoi An. The trucks and cars here get demoted to a boring tunnel, while bikes are free to enjoy the twisty roads in peace. Possibly some of the best views yet from this road.</p>
 
-                    <a href="http://www.flickr.com/photos/luketwomey/7166198839/" title="Hanoi to Saigon-7 by luketwomey, on Flickr" target="_blank"><img src="https://farm8.staticflickr.com/7238/7166198839_6086978043_z.jpg" alt="Hanoi to Saigon-7"></a>
+                    <a href="images/posts/hanoi-to-saigon-part-two/08_Hanoi to Saigon-7-large.jpg" class="fancybox">
+                        <img src="images/posts/hanoi-to-saigon-part-two/08_Hanoi to Saigon-7.jpg"/>
+                    </a>
 
-                    <a href="http://www.flickr.com/photos/luketwomey/7166166741/" title="Hanoi to Saigon-6 by luketwomey, on Flickr" target="_blank"><img src="https://farm8.staticflickr.com/7213/7166166741_4ce7888897_z.jpg" alt="Hanoi to Saigon-6"></a>
+                    <a href="images/posts/hanoi-to-saigon-part-two/07_Hanoi to Saigon-6-large.jpg" class="fancybox">
+                        <img src="images/posts/hanoi-to-saigon-part-two/07_Hanoi to Saigon-6.jpg"/>
+                    </a>
 
-                    <a href="http://www.flickr.com/photos/luketwomey/7166157481/" title="Hanoi to Saigon-5 by luketwomey, on Flickr" target="_blank"><img src="https://farm8.staticflickr.com/7077/7166157481_e4f1d360c8_z.jpg" alt="Hanoi to Saigon-5"></a>
+                    <a href="images/posts/hanoi-to-saigon-part-two/06_Hanoi to Saigon-5-large.jpg" class="fancybox">
+                        <img src="images/posts/hanoi-to-saigon-part-two/06_Hanoi to Saigon-5.jpg"/>
+                    </a>
 
-                    <a href="http://www.flickr.com/photos/luketwomey/7430339704/" title="Hanoi to Saigon-13 by luketwomey, on Flickr" target="_blank"><img src="https://farm6.staticflickr.com/5330/7430339704_8ba860da30_z.jpg" alt="Hanoi to Saigon-13"></a>
+                    <a href="images/posts/hanoi-to-saigon-part-two/14_Hanoi to Saigon-13-large.jpg" class="fancybox">
+                        <img src="images/posts/hanoi-to-saigon-part-two/14_Hanoi to Saigon-13.jpg"/>
+                    </a>
 
                     <p>Arriving in Hoi An we discovered Raj had booked into an eighty dollar a night resort. This is compared to the fifteen or so we'd be paying. She said she needed pampering. I think she bumped her head in the crash.</p>
 
@@ -69,25 +79,33 @@
                     <p>From Hoi An, we travelled further down the coast to Nha Trang, Raj by bus (with her bike) and Joakim and I riding. This is party central, a typical beach resort type place. It was a nice enough area, but a little too crowded for my liking. The beach was also not as nice as we found at Hoi An, but regrettably did not spend any time at as we expected Nha Trang to be better.</p>
 
                     <figure>
-                        <a href="http://www.flickr.com/photos/luketwomey/7351416648/" title="Hanoi to Saigon-8 by luketwomey, on Flickr" target="_blank">
-                            <img src="https://farm8.staticflickr.com/7236/7351416648_4100db4073_z.jpg" />
+                        <a href="images/posts/hanoi-to-saigon-part-two/IMG_6160-large.jpg" class="fancybox">
+                            <img src="images/posts/hanoi-to-saigon-part-two/IMG_6160.jpg"/>
                         </a>
                         <figcaption>The beach at Hoi An where we should have stayed!...</figcaption>
                     </figure>
 
                     <p>Nha Trang had nice crabs though:</p>
 
-                    <a href="http://www.flickr.com/photos/luketwomey/7430355436/" title="Hanoi to Saigon-16 by luketwomey, on Flickr" target="_blank"><img src="https://farm8.staticflickr.com/7269/7430355436_d4c4e9c62c_z.jpg" alt="Hanoi to Saigon-16"></a>
+                    <a href="images/posts/hanoi-to-saigon-part-two/IMG_6189-large.jpg" class="fancybox">
+                        <img src="images/posts/hanoi-to-saigon-part-two/IMG_6189.jpg"/>
+                    </a>
 
-                    <a href="http://www.flickr.com/photos/luketwomey/7430351686/" title="Hanoi to Saigon-15 by luketwomey, on Flickr" target="_blank"><img src="https://farm9.staticflickr.com/8154/7430351686_ed6e024a54_z.jpg" alt="Hanoi to Saigon-15"></a>
+                    <a href="images/posts/hanoi-to-saigon-part-two/IMG_6179-large.jpg" class="fancybox">
+                        <img src="images/posts/hanoi-to-saigon-part-two/IMG_6179.jpg"/>
+                    </a>
 
                     <p>You will also constantly be hassled by people trying to sell you things. On one such amusing occasion, it was the turn of a young boy who had a bunch of images whereby if you turned them by a certain number of degrees in either direction, the image would change. After a few failed attempts at impressing us with puppies playing together happily, or flowers coming into bloom, he rummaged around in the bottom of his box to produce an image of an attractive young lady, who got her breasts out as you turned it round. We found this hilarious, he was clearly a professional at judging his audience.</p>
 
                     <p>Da Lat could not have been more different from Nha Trang. A short one hundred and forty kilometer ride away, you're in cooler air, a more peaceful area and generally a nicer atmosphere. This is where locals come for their honeymoon, and you rarely see foreigners around, which is a nice treat. There is a big lake which is a magnet for locals (and visitors alike). Seemingly every child in town came out each day to fly kites by the side of the lake, a breathtaking sight.</p>
 
-                    <a href="http://www.flickr.com/photos/luketwomey/7430359518/" title="Hanoi to Saigon-17 by luketwomey, on Flickr" target="_blank"><img src="https://farm6.staticflickr.com/5239/7430359518_10807a4811_z.jpg" alt="Hanoi to Saigon-17"></a>
+                    <a href="images/posts/hanoi-to-saigon-part-two/IMG_6191-large.jpg" class="fancybox">
+                        <img src="images/posts/hanoi-to-saigon-part-two/IMG_6191.jpg"/>
+                    </a>
 
-                    <a href="http://www.flickr.com/photos/luketwomey/7430336064/" title="Hanoi to Saigon-9 by luketwomey, on Flickr" target="_blank"><img src="https://farm9.staticflickr.com/8150/7430336064_e4d677778e_z.jpg" alt="Hanoi to Saigon-9"></a>
+                    <a href="images/posts/hanoi-to-saigon-part-two/IMG_6198-large.jpg" class="fancybox">
+                        <img src="images/posts/hanoi-to-saigon-part-two/IMG_6198.jpg"/>
+                    </a>
 
                     <p>Raj sold her bike in Da Lat. She said it seemed like a fitting place to leave her, a nice resting place if you will. She made the final leg of the journey by bus and Joakim and I carried on by bike, to our final destination; Ho Chi Minh City.</p>
 
@@ -96,29 +114,29 @@
                     <p>Here's a few random images taken by Joakim along the way:</p>
 
                     <figure>
-                        <a href="http://www.flickr.com/photos/luketwomey/7430338628/" title="Hanoi to Saigon-12 by luketwomey, on Flickr" target="_blank">
-                            <img src="https://farm9.staticflickr.com/8028/7430338628_ae7dbf1691_z.jpg" />
+                        <a href="images/posts/hanoi-to-saigon-part-two/13_Hanoi to Saigon-12-large.jpg" class="fancybox">
+                            <img src="images/posts/hanoi-to-saigon-part-two/13_Hanoi to Saigon-12.jpg"/>
                         </a>
                         <figcaption>A short detour that didn't quite pay off, nice ride though!</figcaption>
                     </figure>
 
                     <figure>
-                        <a href="http://www.flickr.com/photos/luketwomey/7430337142/" title="Hanoi to Saigon-10 by luketwomey, on Flickr" target="_blank">
-                            <img src="https://farm8.staticflickr.com/7125/7430337142_69ac3948b7_z.jpg" />
+                        <a href="images/posts/hanoi-to-saigon-part-two/11_Hanoi to Saigon-10-large.jpg" class="fancybox">
+                            <img src="images/posts/hanoi-to-saigon-part-two/11_Hanoi to Saigon-10.jpg"/>
                         </a>
                         <figcaption>Local kids laughing at the foreigners!</figcaption>
                     </figure>
 
                     <figure>
-                        <a href="http://www.flickr.com/photos/luketwomey/7430337836/" title="Hanoi to Saigon-11 by luketwomey, on Flickr" target="_blank">
-                            <img src="https://farm6.staticflickr.com/5466/7430337836_450e990290_z.jpg" />
+                        <a href="images/posts/hanoi-to-saigon-part-two/12_Hanoi to Saigon-11-large.jpg" class="fancybox">
+                            <img src="images/posts/hanoi-to-saigon-part-two/12_Hanoi to Saigon-11.jpg"/>
                         </a>
                         <figcaption>The marathon day from part one we thought would never end...</figcaption>
                     </figure>
 
                     <figure>
-                        <a href="http://www.flickr.com/photos/luketwomey/7430340190/" title="Hanoi to Saigon-14 by luketwomey, on Flickr" target="_blank">
-                            <img src="https://farm6.staticflickr.com/5332/7430340190_f605df77d8_z.jpg" />
+                        <a href="images/posts/hanoi-to-saigon-part-two/15_Hanoi to Saigon-14-large.jpg" class="fancybox">
+                            <img src="images/posts/hanoi-to-saigon-part-two/15_Hanoi to Saigon-14.jpg"/>
                         </a>
                         <figcaption>Mechanic fixing a puncture on my bike...</figcaption>
                     </figure>

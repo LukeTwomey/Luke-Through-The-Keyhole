@@ -13,12 +13,12 @@
 <link rel="shortcut icon" type="image/x-icon" href="images/icons/favicon.ico" />
 <!--<link rel="stylesheet" href="stylesheets/css-reset-min.css" type="text/css" />-->
 
-<!--
-<link rel="stylesheet/less" type="text/css" href="stylesheets/style.less"/>
-<script src="//cdnjs.cloudflare.com/ajax/libs/less.js/2.5.0/less.min.js"></script>
--->
 
-<link rel="stylesheet" href="stylesheets/styles.css" type="text/css" />
+<link rel="stylesheet/less" type="text/css" href="stylesheets/styles.less"/>
+<script src="//cdnjs.cloudflare.com/ajax/libs/less.js/2.5.0/less.min.js"></script>
+
+
+<!-- <link rel="stylesheet" href="stylesheets/styles.css" type="text/css" /> -->
 <!--<link rel="stylesheet" href="stylesheets/jquery.fancybox.css" type="text/css" media="screen" />-->
 
 
